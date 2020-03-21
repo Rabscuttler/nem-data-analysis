@@ -1,0 +1,411 @@
+DUID,Region,Participant,Station Name,Technology Type - Descriptor
+BDL01,VIC1,AETV Pty Ltd,Bairnsdale Power Station,Open Cycle Gas turbines (OCGT)
+BDL02,VIC1,AETV Pty Ltd,Bairnsdale Power Station,Open Cycle Gas turbines (OCGT)
+CHPSTWF1,VIC1,AETV Pty Ltd,Chepstowe Wind Farm,Wind - Onshore
+AGLSITA1,NSW1,AGL Hydro Partnership,Agl Kemps Creek,Compression Reciprocating Engine
+BAPS,VIC1,AGL Hydro Partnership,Banimboola Power Station,Hydro - Gravity
+MCKAY1,VIC1,AGL Hydro Partnership,Bogong / Mackay Power Station,Hydro - Gravity
+BROKENH1,NSW1,AGL Hydro Partnership,Broken Hill Solar Plant,Photovoltaic Flat panel
+BDONGHYD,NSW1,AGL Hydro Partnership,Burrendong Hydro Power Station,Hydro - Gravity
+CLOVER,VIC1,AGL Hydro Partnership,Clover Power Station,Hydro - Gravity
+COPTNHYD,NSW1,AGL Hydro Partnership,Copeton Hydro Power Station,Hydro - Gravity
+DARTM1,VIC1,AGL Hydro Partnership,Dartmouth Power Station,Hydro - Gravity
+EILDON1,VIC1,AGL Hydro Partnership,Eildon Power Station,Hydro - Gravity
+EILDON2,VIC1,AGL Hydro Partnership,Eildon Power Station,Hydro - Gravity
+GLBWNHYD,NSW1,AGL Hydro Partnership,Glenbawn Hydro Power Station,Hydro - Gravity
+ICSM,QLD1,AGL Hydro Partnership,ISIS Central Sugar Mill Co-generation Plant,Steam Sub-Critical
+KINCUM1,NSW1,AGL Hydro Partnership,Kincumber Landfill Site,Compression Reciprocating Engine
+MACARTH1,VIC1,AGL Hydro Partnership,Macarthur Wind Farm,Wind - Onshore
+MORANBAH,QLD1,AGL Hydro Partnership,Moranbah Generation Project,Compression Reciprocating Engine
+NYNGAN1,NSW1,AGL Hydro Partnership,Nyngan Solar Plant,Photovoltaic Flat panel
+OAKLAND1,VIC1,AGL Hydro Partnership,Oaklands Hill Wind Farm,Wind - Onshore
+PINDARI,NSW1,AGL Hydro Partnership,Pindari Hydro Power Station,Hydro - Gravity
+RUBICON,VIC1,AGL Hydro Partnership,Rubicon Mountain Streams Station,Hydro - Gravity
+AGLSOM,VIC1,AGL Hydro Partnership,Somerton Power Station,Open Cycle Gas turbines (OCGT)
+YABULU,QLD1,AGL Hydro Partnership,Townsville Gas Turbine,Combined Cycle Gas Turbine (CCGT)
+YABULU2,QLD1,AGL Hydro Partnership,Townsville Gas Turbine,Combined Cycle Gas Turbine (CCGT)
+WKIEWA1,VIC1,AGL Hydro Partnership,West Kiewa Power Station,Hydro - Gravity
+WKIEWA2,VIC1,AGL Hydro Partnership,West Kiewa Power Station,Hydro - Gravity
+AGLNOW1,NSW1,AGL Hydro Partnership,West Nowra Landfill Gas Power Generation Facility,Compression Reciprocating Engine
+WOYWOY1,NSW1,AGL Hydro Partnership,Woy Woy Landfill Site,Spark Ignition Reciprocating Engine
+YWNGAHYD,VIC1,AGL Hydro Partnership,Yarrawonga Hydro Power Station,Hydro - Gravity
+LYA1,VIC1,AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,Steam Sub-Critical
+LYA2,VIC1,AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,Steam Sub-Critical
+LYA3,VIC1,AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,Steam Sub-Critical
+LYA4,VIC1,AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,Steam Sub-Critical
+BW01,NSW1,AGL Macquarie Pty Limited,Bayswater Power Station,Steam Sub-Critical
+BW02,NSW1,AGL Macquarie Pty Limited,Bayswater Power Station,Steam Sub-Critical
+BW03,NSW1,AGL Macquarie Pty Limited,Bayswater Power Station,Steam Sub-Critical
+BW04,NSW1,AGL Macquarie Pty Limited,Bayswater Power Station,Steam Sub-Critical
+HVGTS,NSW1,AGL Macquarie Pty Limited,Hunter Valley Gas Turbine,Open Cycle Gas turbines (OCGT)
+LD01,NSW1,AGL Macquarie Pty Limited,Liddell Power Station,Steam Sub-Critical
+LD02,NSW1,AGL Macquarie Pty Limited,Liddell Power Station,Steam Sub-Critical
+LD03,NSW1,AGL Macquarie Pty Limited,Liddell Power Station,Steam Sub-Critical
+LD04,NSW1,AGL Macquarie Pty Limited,Liddell Power Station,Steam Sub-Critical
+STWF1,NSW1,AGL PARF NSW Pty Ltd,Silverton Wind Farm,Wind - Onshore
+COOPGWF1,QLD1,AGL PARF QLD Pty Limited,Coopers Gap Wind Farm,Wind - Onshore
+BARKIPS1,SA1,AGL SA Generation Pty Limited,Barker Inlet Power Station,Compression Reciprocating Engine
+HALLWF1,SA1,AGL SA Generation Pty Limited,Hallett 1 Wind Farm,Wind - Onshore
+HALLWF2,SA1,AGL SA Generation Pty Limited,Hallett 2 Wind Farm,Wind - Onshore
+NBHWF1,SA1,AGL SA Generation Pty Limited,North Brown Hill Wind Farm,Wind - Onshore
+BLUFF1,SA1,AGL SA Generation Pty Limited,The Bluff Wind Farm,Wind - Onshore
+TORRA1,SA1,AGL SA Generation Pty Limited,Torrens Island Power Station,Steam Sub-Critical
+TORRA2,SA1,AGL SA Generation Pty Limited,Torrens Island Power Station,Steam Sub-Critical
+TORRA3,SA1,AGL SA Generation Pty Limited,Torrens Island Power Station,Steam Sub-Critical
+TORRA4,SA1,AGL SA Generation Pty Limited,Torrens Island Power Station,Steam Sub-Critical
+TORRB1,SA1,AGL SA Generation Pty Limited,Torrens Island Power Station,Steam Sub-Critical
+TORRB2,SA1,AGL SA Generation Pty Limited,Torrens Island Power Station,Steam Sub-Critical
+TORRB3,SA1,AGL SA Generation Pty Limited,Torrens Island Power Station,Steam Sub-Critical
+TORRB4,SA1,AGL SA Generation Pty Limited,Torrens Island Power Station,Steam Sub-Critical
+WPWF,SA1,AGL SA Generation Pty Limited,Wattle Point Wind Farm,Wind - Onshore
+-,VIC1,Alcoa Portland Aluminium Pty Ltd,Portland,-
+BALDHWF1,VIC1,Alinta Energy Retail Sales Pty Ltd,Bald Hills Wind Farm,Wind - Onshore
+BANN1,VIC1,Alinta Energy Retail Sales Pty Ltd,Bannerton Solar Park,Photovoltaic Tracking Flat panel
+LOYYB1,VIC1,Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,Steam Sub-Critical
+LOYYB2,VIC1,Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,Steam Sub-Critical
+MAROOWF1,VIC1,Alinta Energy Retail Sales Pty Ltd,Maroona Wind Farm,Wind - Onshore
+TIMWEST,VIC1,Alinta Energy Retail Sales Pty Ltd,Timboon West Wind Farm,Wind - Onshore
+YAWWF1,VIC1,Alinta Energy Retail Sales Pty Ltd,Yawong Wind Farm,Wind - Onshore
+ARWF1,VIC1,Ararat Wind Farm Pty Ltd,Ararat Wind Farm,Wind - Onshore
+DAANDINE,QLD1,Arrow Energy Trading Pty Ltd,Daandine Power Station,Compression Reciprocating Engine
+BRAEMAR5,QLD1,Arrow Southern Generation Pty Ltd And Arrow Braemar 2 Pty Ltd,Braemar 2 Power Station,Open Cycle Gas turbines (OCGT)
+BRAEMAR6,QLD1,Arrow Southern Generation Pty Ltd And Arrow Braemar 2 Pty Ltd,Braemar 2 Power Station,Open Cycle Gas turbines (OCGT)
+BRAEMAR7,QLD1,Arrow Southern Generation Pty Ltd And Arrow Braemar 2 Pty Ltd,Braemar 2 Power Station,Open Cycle Gas turbines (OCGT)
+BLNKTAS,TAS1,Basslink Pty Ltd,Basslink HVDC Link,unspecified
+BLNKVIC,VIC1,Basslink Pty Ltd,Basslink HVDC Link,unspecified
+BOCORWF1,NSW1,Boco Rock Wind Farm Pty Ltd,Boco Rock Wind Farm,Wind - Onshore
+BODWF1,NSW1,Bodangora Wind Farm Pty Limited,Bodangora Wind Farm ,Wind - Onshore
+BRAEMAR1,QLD1,Braemar Power Project Pty Ltd,Braemar Power Station,Open Cycle Gas turbines (OCGT)
+BRAEMAR2,QLD1,Braemar Power Project Pty Ltd,Braemar Power Station,Open Cycle Gas turbines (OCGT)
+BRAEMAR3,QLD1,Braemar Power Project Pty Ltd,Braemar Power Station,Open Cycle Gas turbines (OCGT)
+RUGBYR1,QLD1,Braemar Power Project Pty Ltd,Rugby Run Solar Farm,Photovoltaic Tracking Flat panel
+CSPVPS1,QLD1,Braemar Power Project Pty Ltd ,Collinsville Solar PV Power Station,Photovoltaic Flat Panel
+CPP_3,QLD1,Callide Power Trading Pty Limited,Callide C Nett Off,Steam Super Critical
+CPP_4,QLD1,Callide Power Trading Pty Limited,Callide C Nett Off,Steam Super Critical
+CNUNDAWF,SA1,Canunda Power Pty Ltd,Canunda Wind Farm,Wind - Onshore
+BWTR1,NSW1,Cape Byron Management Pty Ltd,Broadwater Power Station,Steam Sub-Critical
+CONDONG1,NSW1,Cape Byron Management Pty Ltd,Condong Power Station,Steam Sub-Critical
+CATHROCK,SA1,Cathedral Rocks Wind Farm Pty Ltd,Cathedral Rocks,Wind - Onshore
+CHILDSF1,QLD1,Childers Solar Pty Ltd as the Trustee for the Childers Solar Trust ,Childers Solar Farm,Photovoltaic Tracking Flat panel
+CLARESF1,QLD1,Clare Solar Farm Pty Ltd,Clare Solar Farm,Photovoltaic Tracking Flat panel
+BARRON-1,QLD1,CleanCo Queensland Ltd,Barron Gorge Power Station,Run of River
+BARRON-2,QLD1,CleanCo Queensland Ltd,Barron Gorge Power Station,Run of River
+KAREEYA1,QLD1,CleanCo Queensland Ltd,Kareeya Power Station,Run of River
+KAREEYA2,QLD1,CleanCo Queensland Ltd,Kareeya Power Station,Run of River
+KAREEYA3,QLD1,CleanCo Queensland Ltd,Kareeya Power Station,Run of River
+KAREEYA4,QLD1,CleanCo Queensland Ltd,Kareeya Power Station,Run of River
+KAREEYA5,QLD1,CleanCo Queensland Ltd,Kareeya Power Station,Run of River
+SWAN_E,QLD1,CleanCo Queensland Ltd,Swanbank B Power Station & Swanbank E Gas Turbine,Combined Cycle Gas Turbine (CCGT)
+PUMP1,QLD1,CleanCo Queensland Ltd,Wivenhoe Power Station,-
+PUMP2,QLD1,CleanCo Queensland Ltd,Wivenhoe Power Station,-
+W/HOE#1,QLD1,CleanCo Queensland Ltd,Wivenhoe Power Station,Pump Storage
+W/HOE#2,QLD1,CleanCo Queensland Ltd,Wivenhoe Power Station,Pump Storage
+CLERMSF1,QLD1,Clermont Asset Co Pty Ltd as the Trustee for the Clermont Solar Unit Trust,Clermont Solar Farm,Photovoltaic Tracking Flat panel
+COLEASF1,NSW1,Coleambally Solar Pty Ltd,Coleambally Solar Farm,Photovoltaic Tracking Flat panel
+CBWF1,VIC1,Coonooer Bridge Wind Farm Pty Ltd,Coonooer Bridge Wind Farm,Wind - Onshore
+CROOKWF2,NSW1,Crookwell Development Pty Ltd ,Crookwell 2 Wind Farm,Wind - Onshore
+-,QLD1,CS Energy Limited,Callide Power Station,Steam Sub-Critical
+CALL_A_4,QLD1,CS Energy Limited,Callide Power Station,Steam Sub-Critical
+CALL_B_1,QLD1,CS Energy Limited,Callide Power Station,Steam Sub-Critical
+CALL_B_2,QLD1,CS Energy Limited,Callide Power Station,Steam Sub-Critical
+GSTONE1,QLD1,CS Energy Limited,Gladstone Power Station,Steam Sub-Critical
+GSTONE2,QLD1,CS Energy Limited,Gladstone Power Station,Steam Sub-Critical
+GSTONE3,QLD1,CS Energy Limited,Gladstone Power Station,Steam Sub-Critical
+GSTONE4,QLD1,CS Energy Limited,Gladstone Power Station,Steam Sub-Critical
+GSTONE5,QLD1,CS Energy Limited,Gladstone Power Station,Steam Sub-Critical
+GSTONE6,QLD1,CS Energy Limited,Gladstone Power Station,Steam Sub-Critical
+KPP_1,QLD1,CS Energy Limited,Kogan Creek Power Station,Steam Super Critical
+CULLRGWF,NSW1,Cullerin Range Wind Farm Pty Ltd,Cullerin Range Wind Farm,Wind - Onshore
+DDSF1,QLD1,Darling Downs Solar Farm Pty Ltd ,"Darling Downs Solar Farm, Units 1-44 ",Photovoltaic Flat Panel
+DAYDSF1,QLD1,Daydream Solar Farm Pty Ltd ATF the Daydream Solar Farm Trust ,Daydream Solar Farm,Photovoltaic Tracking Flat panel
+DAYDSF2,QLD1,Daydream Solar Farm Pty Ltd ATF the Daydream Solar Farm Trust ,Daydream Solar Farm,Photovoltaic Tracking Flat panel
+VP5,NSW1,Delta Electricity,"Vales Point ""B"" Power Station",Steam Sub-Critical
+VP6,NSW1,Delta Electricity,"Vales Point ""B"" Power Station",Steam Sub-Critical
+BAKING1,QLD1,Diamond Energy Pty Ltd,Baking Board Solar Farm,Photovoltaic Tracking Flat panel
+BARCSF1,QLD1,Diamond Energy Pty Ltd,Barcaldine Solar Farm,Photovoltaic Tracking Flat panel
+LRSF1,QLD1,Diamond Energy Pty Ltd,Longreach Solar Farm,Photovoltaic Tracking Flat panel
+MARYRSF1,QLD1,Diamond Energy Pty Ltd,Maryrorough Solar Farm,Photovoltaic Tracking Flat panel
+OAKEY1SF,QLD1,Diamond Energy Pty Ltd,Oakey 1 Solar Farm,Photovoltaic Tracking Flat panel
+OAKEY2SF,QLD1,Diamond Energy Pty Ltd,Oakey 2 Solar Farm,Photovoltaic Tracking Flat panel
+SHEP1,VIC1,Diamond Energy Pty Ltd,Shepparton Wastewater Treatment Facility,Compression Reciprocating Engine
+TATURA01,VIC1,Diamond Energy Pty Ltd,Tatura Biomass Generator,Compression Reciprocating Engine
+VALDORA1,QLD1,Diamond Energy Pty Ltd,Valdora Solar Farm,Photovoltaic Flat panel
+NASF1,NSW1,Dubbo Solar Hub Pty Ltd,Narromine Solar Farm,Photovoltaic Tracking Flat panel
+SKSF1,NSW1,Dubbo Solar Hub Pty Ltd,South Keswick Solar Farm,Photovoltaic Tracking Flat panel
+JLA01,VIC1,Ecogen Energy Pty Ltd,"Jeeralang ""A"" Power Station",Open Cycle Gas turbines (OCGT)
+JLA02,VIC1,Ecogen Energy Pty Ltd,"Jeeralang ""A"" Power Station",Open Cycle Gas turbines (OCGT)
+JLA03,VIC1,Ecogen Energy Pty Ltd,"Jeeralang ""A"" Power Station",Open Cycle Gas turbines (OCGT)
+JLA04,VIC1,Ecogen Energy Pty Ltd,"Jeeralang ""A"" Power Station",Open Cycle Gas turbines (OCGT)
+JLB01,VIC1,Ecogen Energy Pty Ltd,"Jeeralang ""B"" Power Station",Open Cycle Gas turbines (OCGT)
+JLB02,VIC1,Ecogen Energy Pty Ltd,"Jeeralang ""B"" Power Station",Open Cycle Gas turbines (OCGT)
+JLB03,VIC1,Ecogen Energy Pty Ltd,"Jeeralang ""B"" Power Station",Open Cycle Gas turbines (OCGT)
+NPS,VIC1,Ecogen Energy Pty Ltd,Newport Power Station,Steam Sub-Critical
+GLENNCRK,NSW1,EDL (OCI) Pty Limited,Glennies Creek Power Station,Compression Reciprocating Engine
+OAKY2,QLD1,EDL (OCI) Pty Limited,Oaky Creek 2,Spark Ignition Reciprocating Engine
+OAKYCREK,QLD1,EDL (OCI) Pty Limited,Oaky Creek Power Station,Compression Reciprocating Engine
+TAHMOOR1,NSW1,EDL (TT) Pty Limited,Tahmoor Waste Coal Mine Gas Power Station,Spark Ignition Reciprocating Engine
+TERALBA,NSW1,EDL (TT) Pty Limited,Teralba Power Station,Compression Reciprocating Engine
+GERMCRK,QLD1,EDL CSM (QLD) Pty Ltd,German Creek Power Station,Spark Ignition Reciprocating Engine
+-,VIC1,EDL Group Operations Pty Ltd,Berwick Power Plant,Spark Ignition Reciprocating Engine
+APPIN,NSW1,EDL Group Operations Pty Ltd,Appin Power Plant,Spark Ignition Reciprocating Engine
+TOWER,NSW1,EDL Group Operations Pty Ltd,Tower Power Plant,Spark Ignition Reciprocating Engine
+EASTCRK,NSW1,EDL LFG (NSW) Pty Ltd,Eastern Creek LFG PS Units 1-4,Spark Ignition Reciprocating Engine
+GRANGEAV,NSW1,EDL LFG (NSW) Pty Ltd,Grange Avenue Landfill Gas Power Station,Spark Ignition Reciprocating Engine
+JACKSGUL,NSW1,EDL LFG (NSW) Pty Ltd,Jacks Gully Landfill Gas Power Station,Compression Reciprocating Engine
+LUCAS2S2,NSW1,EDL LFG (NSW) Pty Ltd,Lucas Heights 2 Power Station,Compression Reciprocating Engine
+LUCASHGT,NSW1,EDL LFG (NSW) Pty Ltd,Lucas Heights 2 Power Station,Spark Ignition Reciprocating Engine
+BPLANDF1,QLD1,EDL LFG (Qld) Pty Ltd,Browns Plains Landfill Gas PS,Spark Ignition Reciprocating Engine
+EDLRGNRD,QLD1,EDL LFG (Qld) Pty Ltd,Roghan Road LFG Power Plant,Steam Sub-Critical
+WINGF1_1,SA1,EDL LFG (SA) Pty Ltd,Wingfield 1 Landfill Gas Power Station,Spark Ignition Reciprocating Engine
+WINGF2_1,SA1,EDL LFG (SA) Pty Ltd,Wingfield 2 Landfill Gas Power Station,Spark Ignition Reciprocating Engine
+BROADMDW,VIC1,EDL LFG (Vic) Pty Ltd,Broadmeadows Landfill Gas Power Station,Spark Ignition Reciprocating Engine
+BROOKLYN,VIC1,EDL LFG (Vic) Pty Ltd,Brooklyn LFG U1-3,Spark Ignition Reciprocating Engine
+CLAYTON,VIC1,EDL LFG (Vic) Pty Ltd,Clayton Landfill Gas Power Station,Spark Ignition Reciprocating Engine
+CORIO1,VIC1,EDL LFG (Vic) Pty Ltd,Corio Landfill Gas Power Station,Spark Ignition Reciprocating Engine
+SVALE1,VIC1,EDL LFG (Vic) Pty Ltd,Springvale Landfill Gas Power Station,Spark Ignition Reciprocating Engine
+GROSV1,QLD1,EDL Projects (Australia) Pty Ltd,Grosvenor 1 Waste Coal Mine Gas Power Station,Spark Ignition Reciprocating Engine
+GROSV2,QLD1,EDL Projects (Australia) Pty Ltd,Grosvenor 2,Spark Ignition Reciprocating Engine
+MBAHNTH,QLD1,EDL Projects (Australia) Pty Ltd,Moranbah North Waste Coal Mine Gas Power Station,Spark Ignition Reciprocating Engine
+NEVERSF1,NSW1,Elliott Nevertire Solar Pty Ltd as Trustee for the Elliott Nevertire Trust,Nevertire Solar Farm,Photovoltaic Tracking Flat panel
+BBASEHOS,VIC1,Enel X Australia Pty Ltd ,Ballarat Base Hospital Plant,Compression Reciprocating Engine
+NINEWIL1,NSW1,Enel X Australia Pty Ltd ,Nine Network Willoughby Plant,Compression Reciprocating Engine
+TATIARA1,SA1,Enel X Australia Pty Ltd ,Tataria Bordertown Plant,Compression Reciprocating Engine
+WESTILL1,NSW1,Enel X Australia Pty Ltd ,West Illawarra Leagues Club Plant,Compression Reciprocating Engine
+WESTCBT1,NSW1,Enel X Australia Pty Ltd ,Western Suburbs League Club (Campbelltown) Plant,Compression Reciprocating Engine
+CODRNGTON,VIC1,Energy Pacific (Vic) Pty Ltd,Codrington Wind Farm,Wind - Onshore
+YAMBUKWF,VIC1,Energy Pacific (Vic) Pty Ltd,Yambuk Wind Farm,Wind - Onshore
+BALBG1,VIC1,EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,Battery
+BALBL1,VIC1,EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,Battery
+GANNBG1,VIC1,EnergyAustralia Pty Ltd,Gannawarra Energy Storage System,Battery
+GANNBL1,VIC1,EnergyAustralia Pty Ltd,Gannawarra Energy Storage System,Battery
+MORNW,VIC1,EnergyAustralia Pty Ltd,Mornington Waste Disposal Facility,Compression Reciprocating Engine
+MP1,NSW1,EnergyAustralia Pty Ltd,Mt Piper Power Station,Steam Sub-Critical
+MP2,NSW1,EnergyAustralia Pty Ltd,Mt Piper Power Station,Steam Sub-Critical
+TALWA1,NSW1,EnergyAustralia Pty Ltd,Tallawarra Power Station,Combined Cycle Gas Turbine (CCGT)
+WDLNGN01,NSW1,EnergyAustralia Pty Ltd,Woodlawn Bioreactor Energy Generation Station,Compression Reciprocating Engine
+WYNDW,VIC1,EnergyAustralia Pty Ltd,Wyndham Waste Disposal Facility,Compression Reciprocating Engine
+AGLHAL,SA1,EnergyAustralia Yallourn Pty Ltd,Hallett Power Station,Open Cycle Gas turbines (OCGT)
+YWPS1,VIC1,EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,Steam Sub-Critical
+YWPS2,VIC1,EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,Steam Sub-Critical
+YWPS3,VIC1,EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,Steam Sub-Critical
+YWPS4,VIC1,EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,Steam Sub-Critical
+BARCALDN,QLD1,Ergon Energy Queensland Pty Ltd,Barcaldine Power Station,Combined Cycle Gas Turbine (CCGT)
+LILYSF1,QLD1,Ergon Energy Queensland Pty Ltd ,Lilyvale Solar Farm,Photovoltaic Tracking Flat panel
+MEWF1,QLD1,Ergon Energy Queensland Pty Ltd ,Mount Emerald Wind Farm,Wind - Onshore
+OAKEY1,QLD1,ERM Power Retail Pty Ltd,Oakey Power Station,Open Cycle Gas turbines (OCGT)
+OAKEY2,QLD1,ERM Power Retail Pty Ltd,Oakey Power Station,Open Cycle Gas turbines (OCGT)
+GB01,NSW1,Essential Energy,Broken Hill Gas Turbines,Open Cycle Gas turbines (OCGT)
+FINLYSF1,NSW1,Finley Solar Farm Pty Ltd as trustee for the Finley Solar Trust,Finley Solar Farm,Photovoltaic Tracking  Flat Panel
+BERYLSF1,NSW1,FS NSW Project No 1 At Pty Ltd as trustee for the FS NSW Project No 1 Asset Trust,"Beryl Solar Farm, Units 1-60",Photovoltaic Tracking Flat panel
+GANNSF1,VIC1,Gannawarra Solar Farm Pty Ltd,Gannawarra Solar Farm,Photovoltaic Tracking Flat panel
+KSP1,QLD1,Genex (Solar) Pty Ltd,Kidston Solar Project,Photovoltaic Flat panel
+GRANWF1,TAS1,Granville Harbour Operations Pty Ltd as The Trustee for Granville Harbour Operations Trust,Granville Harbour Wind Farm,Wind - Onshore
+DALNTH01,SA1,Greentricity Pty Ltd,Dalrymple North Battery Energy Storage System,Battery
+DALNTHL1,SA1,Greentricity Pty Ltd,Dalrymple North Battery Energy Storage System,Battery
+GRIFSF1,NSW1,Griffith Solar Farm Pty Ltd,Griffith Solar Farm,Photovoltaic Tracking Flat panel
+BURRIN,NSW1,GSP Energy Pty Ltd,Burrinjuck Hydro Power Station,Hydro - Gravity
+HUMENSW,NSW1,GSP Energy Pty Ltd,Hume (NSW) Hydro Power Station,Hydro - Gravity
+HUMEV,VIC1,GSP Energy Pty Ltd,Hume (Vic) Hydro Power Station,Hydro - Gravity
+KEEPIT,NSW1,GSP Energy Pty Ltd,Keepit Hydro Power Station,Hydro - Gravity
+GUNNING1,NSW1,Gunning Wind Energy Developments Pty Ltd,Gunning Wind Farm,Wind - Onshore
+HAMISF1,QLD1,Hamilton Solar Farm Pty Ltd,Hamilton Solar Farm,Photovoltaic Tracking Flat panel
+HAYMSF1,QLD1,Hayman Solar Farm Pty Ltd ATF the Hayman Solar Farm Trust ,Hayman Solar Farm,Photovoltaic Tracking Flat panel
+HPRG1,SA1,Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,Battery and Inverter
+HPRL1,SA1,Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,Battery
+HUGSF1,QLD1,Hughenden Solar Pty Limited As Trustee For Hughenden Solar Trust,Hughenden Solar Farm,Photovoltaic Tracking Flat panel
+HDWF1,SA1,HWF1 Pty Ltd,Hornsdale Wind Farm,Wind - Onshore
+HDWF2,SA1,HWF2 Pty Ltd,Hornsdale Wind Farm 2,Wind - Onshore
+HDWF3,SA1,HWF3 Pty Ltd,Hornsdale Wind Farm 3,Wind - Onshore
+BROWNMT,NSW1,Hydro Power Pty Limited,Brown Mountain Hydro Power Station,Hydro - Gravity
+WYANGALA,NSW1,Hydro Power Pty Limited,Wyangala A Power Station,Hydro - Gravity
+WYANGALB,NSW1,Hydro Power Pty Limited,Wyangala B Power Station,Hydro - Gravity
+BBTHREE1,TAS1,Hydro-Electric Corporation,Bell Bay Three Power Station,Open Cycle Gas turbines (OCGT)
+BBTHREE2,TAS1,Hydro-Electric Corporation,Bell Bay Three Power Station,Open Cycle Gas turbines (OCGT)
+BBTHREE3,TAS1,Hydro-Electric Corporation,Bell Bay Three Power Station,Open Cycle Gas turbines (OCGT)
+TVPP104,TAS1,Hydro-Electric Corporation,Bell Bay Three Power Station,Open Cycle Gas turbines (OCGT)
+TVCC201,TAS1,Hydro-Electric Corporation,Tamar Valley Combined Cycle Power Station,Combined Cycle Gas Turbine (CCGT)
+BASTYAN,TAS1,Hydro-Electric Corporation,Bastyan Power Station,Hydro - Gravity
+BUTLERSG,TAS1,Hydro-Electric Corporation,Butlers Gorge Power Station,Hydro - Gravity
+LI_WY_CA,TAS1,Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,Hydro - Gravity
+CETHANA,TAS1,Hydro-Electric Corporation,Cethana Power Station,Hydro - Gravity
+CLUNY,TAS1,Hydro-Electric Corporation,Cluny Power Station,Hydro - Gravity
+DEVILS_G,TAS1,Hydro-Electric Corporation,Devils Gate Power Station,Hydro - Gravity
+FISHER,TAS1,Hydro-Electric Corporation,Fisher Power Station,Hydro - Gravity
+GORDON,TAS1,Hydro-Electric Corporation,Gordon Power Station,Hydro - Gravity
+JBUTTERS,TAS1,Hydro-Electric Corporation,John Butters Power Station,Hydro - Gravity
+LK_ECHO,TAS1,Hydro-Electric Corporation,Lake Echo Power Station,Hydro - Gravity
+LEM_WIL,TAS1,Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,Hydro - Gravity
+MACKNTSH,TAS1,Hydro-Electric Corporation,Mackintosh Power Station,Hydro - Gravity
+MEADOWBK,TAS1,Hydro-Electric Corporation,Meadowbank Power Station,Hydro - Gravity
+MUSSELR1,TAS1,Hydro-Electric Corporation,Musselroe Wind Farm,Wind - Onshore
+PALOONA,TAS1,Hydro-Electric Corporation,Paloona Power Station,Hydro - Gravity
+POAT110,TAS1,Hydro-Electric Corporation,Poatina Power Station,Hydro - Gravity
+POAT220,TAS1,Hydro-Electric Corporation,Poatina Power Station,Hydro - Gravity
+REECE1,TAS1,Hydro-Electric Corporation,Reece Power Station,Hydro - Gravity
+REECE2,TAS1,Hydro-Electric Corporation,Reece Power Station,Hydro - Gravity
+REPULSE,TAS1,Hydro-Electric Corporation,Repulse Power Station,Hydro - Gravity
+ROWALLAN,TAS1,Hydro-Electric Corporation,Rowallan Power Station,Hydro - Gravity
+TARRALEA,TAS1,Hydro-Electric Corporation,Tarraleah Power Station,Hydro - Gravity
+TREVALLN,TAS1,Hydro-Electric Corporation,Trevallyn Power Station,Hydro - Gravity
+TRIBUTE,TAS1,Hydro-Electric Corporation,Tribute Power Station,Hydro - Gravity
+TUNGATIN,TAS1,Hydro-Electric Corporation,Tungatinah Power Station,Hydro - Gravity
+WOOLNTH1,TAS1,Hydro-Electric Corporation,Woolnorth Studland Bay / Bluff Point Wind Farm,Wind - Onshore
+CESF1,NSW1,Infigen Energy Holdings Pty Limited,Capital East Solar Farm,Photovoltaic Flat panel
+CAPTL_WF,NSW1,Infigen Energy Markets Pty Limited,Capital Wind Farm,Wind - Onshore
+KARSF1,VIC1,Iraak Sun Farm Pty Ltd,Karadoc Solar Farm,Photovoltaic Flat panel
+KIATAWF1,VIC1,Kiata Wind Farm Pty Ltd,Kiata Wind Farm,Wind - Onshore
+LBBG1,SA1,Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,Battery
+LBBL1,SA1,Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,Battery
+LKBONNY2,SA1,Lake Bonney Wind Power Pty Ltd,Lake Bonney Stage 2 Windfarm,Wind - Onshore
+LKBONNY3,SA1,Lake Bonney Wind Power Pty Ltd,Lake Bonney Stage 3 Wind Farm,Wind - Onshore
+LKBONNY1,SA1,Lake Bonney Wind Power Pty Ltd,Lake Bonney Wind Farm Stage 1,Wind - Onshore
+YENDWF1,VIC1,Lal Lal Wind Farms Nom Co Pty Ltd,Yendon Wind Farm,Wind - Onshore
+-,VIC1,Landfill Operations Pty Ltd,Melbourne Regional Landfill,Spark Ignition Reciprocating Engine
+LIMOSF21,NSW1,Limondale Sun Farm Pty Ltd,Limondale Solar Farm 2,Photovoltaic Tracking Flat Panel
+LGAPWF1,SA1,Lincoln Gap Wind Farm (Operations) Pty Ltd,Lincoln Gap Wind Farm,Wind - Onshore
+EASTCRK2,NSW1,LMS Energy Pty Ltd,Eastern Creek 2 Gas Utilisation Facility,Spark Ignition Reciprocating Engine
+HALAMRD1,VIC1,LMS Energy Pty Ltd,Hallam Road Renewable Energy Facility,Spark Ignition Reciprocating Engine
+REMOUNT,TAS1,LMS Energy Pty Ltd,Remount Power Station,Spark Ignition Reciprocating Engine
+STAPYLTON1,QLD1,LMS Energy Pty Ltd,Stapylton Renewable Energy Facility,Spark Ignition Reciprocating Engine
+WOLLERT1,VIC1,LMS Energy Pty Ltd,Wollert Renewable Energy Facility,Spark Ignition Reciprocating Engine
+RACOMIL1,QLD1,Mackay Sugar Limited,Racecourse Mill Power Station,Steam Sub-Critical
+MANSLR1,NSW1,Manildra Prop Pty Ltd as The Trustee for the Manildra Asset Trust,Manildra solar Farm,Photovoltaic Flat panel
+MPP_1,QLD1,Millmerran Energy Trader Pty Ltd,Millmerran Power Plant,Steam Super Critical
+MPP_2,QLD1,Millmerran Energy Trader Pty Ltd,Millmerran Power Plant,Steam Super Critical
+MOREESF1,NSW1,Moree Solar Farm Pty Ltd,Moree Solar Farm,Photovoltaic Tracking Flat panel
+MLWF1,VIC1,Mortons Lane Windfarm Pty Limited,Mortons Lane Wind Farm,Wind - Onshore
+TABMILL2,QLD1,MP Tableland Green Power Pty Ltd,"Tableland Mill, Unit 2",Steam Super Critical
+MTGELWF1,VIC1,Mt Gellibrand Wind Farm Pty Ltd,Mt Gellibrand Wind Farm,Wind - Onshore
+HEPWIND1,VIC1,Mt Mercer Windfarm Pty Ltd,Hepburn Community Wind Farm,Wind - Onshore
+MERCER01,VIC1,Mt Mercer Windfarm Pty Ltd,Mt Mercer Wind Farm,Wind - Onshore
+MTMILLAR,SA1,Mt Millar Wind Farm Pty Ltd,Mt Millar Wind Farm,Wind - Onshore
+MLSP1,NSW1,Mugga Lane Solar Park Pty Ltd,Mugga Lane Solar Park,Photovoltaic Tracking Flat panel
+GULLRSF1,NSW1,New Gullen Range Wind Farm Pty Ltd,Gullen Range Solar Farm,Photovoltaic Flat panel
+GULLRWF1,NSW1,New Gullen Range Wind Farm Pty Ltd,Gullen Range Wind Farm,Wind - Onshore
+TGNSS1,VIC1,NovaPower Pty Ltd,Traralgon Network Support Station,Spark Ignition Reciprocating Engine
+NUMURSF1,VIC1,Numurkah Solar Farm Pty Ltd,Numurkah Solar Farm,Photovoltaic Tracking Flat panel
+NUMURSF2,VIC1,Numurkah Solar Farm Pty Ltd,Numurkah Solar Farm,Photovoltaic Tracking Flat panel
+DDPS1,QLD1,Origin Energy Electricity Limited,Darling Downs Power Station,Combined Cycle Gas Turbine (CCGT)
+ER01,NSW1,Origin Energy Electricity Limited,Eraring Power Station,Steam Sub-Critical
+ER02,NSW1,Origin Energy Electricity Limited,Eraring Power Station,Steam Sub-Critical
+ER03,NSW1,Origin Energy Electricity Limited,Eraring Power Station,Steam Sub-Critical
+ER04,NSW1,Origin Energy Electricity Limited,Eraring Power Station,Steam Sub-Critical
+ERGT01,NSW1,Origin Energy Electricity Limited,Eraring Power Station,Open Cycle Gas turbines (OCGT)
+LADBROK1,SA1,Origin Energy Electricity Limited,Ladbroke Grove Power Station,Open Cycle Gas turbines (OCGT)
+LADBROK2,SA1,Origin Energy Electricity Limited,Ladbroke Grove Power Station,Open Cycle Gas turbines (OCGT)
+MORTLK11,VIC1,Origin Energy Electricity Limited,Mortlake Power Station,Open Cycle Gas turbines (OCGT)
+MORTLK12,VIC1,Origin Energy Electricity Limited,Mortlake Power Station,Open Cycle Gas turbines (OCGT)
+MSTUART1,QLD1,Origin Energy Electricity Limited,Mt Stuart Power Station,Open Cycle Gas turbines (OCGT)
+MSTUART2,QLD1,Origin Energy Electricity Limited,Mt Stuart Power Station,Open Cycle Gas turbines (OCGT)
+MSTUART3,QLD1,Origin Energy Electricity Limited,Mt Stuart Power Station,Open Cycle Gas turbines (OCGT)
+ROMA_7,QLD1,Origin Energy Electricity Limited,Roma Gas Turbine Station,Open Cycle Gas turbines (OCGT)
+OSB-AG,SA1,Origin Energy Electricity Limited,Osborne Power Station,Combined Cycle Gas Turbine (CCGT)
+QPS1,SA1,Origin Energy Electricity Limited,Quarantine Power Station,Open Cycle Gas turbines (OCGT)
+QPS2,SA1,Origin Energy Electricity Limited,Quarantine Power Station,Open Cycle Gas turbines (OCGT)
+QPS3,SA1,Origin Energy Electricity Limited,Quarantine Power Station,Open Cycle Gas turbines (OCGT)
+QPS4,SA1,Origin Energy Electricity Limited,Quarantine Power Station,Open Cycle Gas turbines (OCGT)
+QPS5,SA1,Origin Energy Electricity Limited,Quarantine Power Station,Open Cycle Gas turbines (OCGT)
+ROMA_8,QLD1,Origin Energy Electricity Limited,Roma Gas Turbine Station,Open Cycle Gas turbines (OCGT)
+SHGEN,NSW1,Origin Energy Electricity Limited,Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),Hydro - Gravity
+SHPUMP,NSW1,Origin Energy Electricity Limited,Shoalhaven Power Station (Bendeela And Kangaroo Valley Power Station And Pumps),-
+WHIT1,QLD1,Origin Energy Electricity Limited,Whitwood Road Renewable Energy Facility,Compression Reciprocating Engine
+URANQ11,NSW1,Origin Energy Electricity Limited,Uranquinty Power Station,Open Cycle Gas turbines (OCGT)
+URANQ12,NSW1,Origin Energy Electricity Limited,Uranquinty Power Station,Open Cycle Gas turbines (OCGT)
+URANQ13,NSW1,Origin Energy Electricity Limited,Uranquinty Power Station,Open Cycle Gas turbines (OCGT)
+URANQ14,NSW1,Origin Energy Electricity Limited,Uranquinty Power Station,Open Cycle Gas turbines (OCGT)
+BNGSF1,SA1,Origin Energy Uranquinty Power Pty Ltd,Bungala One Solar Farm,Photovoltaic Tracking Flat panel
+BNGSF2,SA1,Origin Energy Uranquinty Power Pty Ltd,Bungala Two Solar Farm,Photovoltaic Tracking Flat panel
+CHALLHWF,VIC1,Pacific Hydro Challicum Hills Pty Ltd,Challicum Hills Wind Farm,Wind - Onshore
+CLEMGPWF,SA1,Pacific Hydro Clements Gap Pty Ltd,Clements Gap Wind Farm,Wind - Onshore
+CROWLWF1,VIC1,Pacific Hydro Crowlands Pty Ltd ,Crowlands Wind Farm,Wind - Onshore
+HAUGHT11,QLD1,Pacific Hydro Haughton Solar Farm Pty Ltd,Haughton Solar Farm Stage 1,Photovoltaic Tracking Flat panel
+EILDON3,VIC1,Pacific Hydro Investments Pty Ltd,Eildon Power Station,Run of River
+GLENMAG1,VIC1,Pacific Hydro Investments Pty Ltd,Glenmaggie Hydro Power Station,Run of River
+THEDROP1,NSW1,Pacific Hydro Investments Pty Ltd,The Drop Power Station,Run of River
+WILLHOV1,VIC1,Pacific Hydro Investments Pty Ltd,William Hovell Power Station,Run of River
+-,VIC1,Pacific Hydro Portland Wind Farm Pty Ltd,Portland Wind Farm,Wind - Onshore
+YSWF1,VIC1,Pacific Hydro Yaloak South Pty Ltd,Yaloak South Wind Farm,Wind - Onshore
+PARSF1,NSW1,Parkes Solar Farm Pty Ltd,Parkes Solar Farm,Photovoltaic Flat panel
+PPCCGT,SA1,Pelican Point Power Limited,Pelican Point Power Station,Combined Cycle Gas Turbine (CCGT)
+HLMSEW01,VIC1,Progressive Green Pty Ltd,South East Water - Halllam Hydro Plant,Hydro - Gravity
+WONWP,VIC1,Progressive Green Pty Ltd,Wonthaggi Wind Farm,Wind - Onshore
+WAUBRAWF,VIC1,Pyrenees Wind Energy Development Pty Ltd,Waubra Wind Farm,Wind - Onshore
+CPSA,QLD1,QGC Sales Qld Pty Ltd,Condamine Power Station A,Combined Cycle Gas Turbine (CCGT)
+RPCG,QLD1,Renewable Power Australia Limited,Rocky Point Cogeneration Plant,Steam Sub-Critical
+RRSF1,QLD1,Ross River Operations Pty Ltd as the Trustee for the Ross River Operations Trust ,"Ross River Solar Farm, Units 1-64 ",Photovoltaic Tracking Flat panel
+ROYALLA1,NSW1,Royalla Solar Farm Pty Limited,Royalla Solar Farm,Photovoltaic Flat panel
+YARWUN_1,QLD1,RTA Yarwun Pty Ltd,Yarwun Power Station,Combined Cycle Gas Turbine (CCGT)
+SATGN1,SA1,SA Power Networks,Temporary Generation North,Open Cycle Gas turbines (OCGT)
+SATGS1,SA1,SA Power Networks,Temporary Generation South,Open Cycle Gas turbines (OCGT)
+SALTCRK1,VIC1,Salt Creek Wind Farm Pty Ltd,Salt Creek Wind Farm,Wind - Onshore
+WILGB01,NSW1,Santos NSW (Narrabri Power) Pty Ltd,Wilga Park B,Spark Ignition Reciprocating Engine
+WILGAPK,NSW1,Santos NSW (Narrabri Power) Pty Ltd,Wilga Park Power Station,Spark Ignition Reciprocating Engine
+SITHE01,NSW1,Smithfield Power Generation Pty Ltd,Smithfield Energy Facility,Combined Cycle Gas Turbine (CCGT)
+SITHE04,NSW1,Smithfield Power Generation Pty Ltd,Smithfield Energy Facility,Combined Cycle Gas Turbine (CCGT)
+SNOWTWN1,SA1,Snowtown Wind Farm Pty Ltd,Snowtown Wind Farm Units 1 And 47,Wind - Onshore
+SNOWSTH1,SA1,Snowtown Wind Farm Stage 2 Pty Ltd,Snowtown South Wind Farm,Wind - Onshore
+SNOWNTH1,SA1,Snowtown Wind Farm Stage 2 Pty Ltd,Snowtown Wind Farm Stage 2 North,Wind - Onshore
+ANGAST1,SA1,Snowy Hydro Limited,Angaston Power Station,Compression Reciprocating Engine
+BLOWERNG,NSW1,Snowy Hydro Limited,Blowering Power Station,Hydro - Gravity
+CG1,NSW1,Snowy Hydro Limited,Colongra Power Station,Open Cycle Gas turbines (OCGT)
+CG2,NSW1,Snowy Hydro Limited,Colongra Power Station,Open Cycle Gas turbines (OCGT)
+CG3,NSW1,Snowy Hydro Limited,Colongra Power Station,Open Cycle Gas turbines (OCGT)
+CG4,NSW1,Snowy Hydro Limited,Colongra Power Station,Open Cycle Gas turbines (OCGT)
+GUTHEGA,NSW1,Snowy Hydro Limited,Guthega Power Station,Hydro - Gravity
+JNDABNE1,NSW1,Snowy Hydro Limited,Jindabyne Small Hydro Power Station,Hydro - Gravity
+JOUNAMA1,NSW1,Snowy Hydro Limited,Jounama Small Hydro Power Station,Hydro - Gravity
+LNGS1,VIC1,Snowy Hydro Limited,Laverton North Power Station,Open Cycle Gas turbines (OCGT)
+LNGS2,VIC1,Snowy Hydro Limited,Laverton North Power Station,Open Cycle Gas turbines (OCGT)
+LONSDALE,SA1,Snowy Hydro Limited,Lonsdale Power Station,Compression Reciprocating Engine
+MURRAY,VIC1,Snowy Hydro Limited,Murray Power Station,Hydro - Gravity
+PTSTAN1,SA1,Snowy Hydro Limited,Pt Stanvac Power Station,Compression Reciprocating Engine
+TUMUT3,NSW1,Snowy Hydro Limited,Tumut 3 Power Station,Hydro - Gravity
+SNOWYP,NSW1,Snowy Hydro Limited,Tumut 3 Pumps,unspecified
+UPPTUMUT,NSW1,Snowy Hydro Limited,Tumut Power Station,Hydro - Gravity
+VPGS1,VIC1,Snowy Hydro Limited,Valley Power Peaking Facility,Open Cycle Gas turbines (OCGT)
+VPGS2,VIC1,Snowy Hydro Limited,Valley Power Peaking Facility,Open Cycle Gas turbines (OCGT)
+VPGS3,VIC1,Snowy Hydro Limited,Valley Power Peaking Facility,Open Cycle Gas turbines (OCGT)
+VPGS4,VIC1,Snowy Hydro Limited,Valley Power Peaking Facility,Open Cycle Gas turbines (OCGT)
+VPGS5,VIC1,Snowy Hydro Limited,Valley Power Peaking Facility,Open Cycle Gas turbines (OCGT)
+VPGS6,VIC1,Snowy Hydro Limited,Valley Power Peaking Facility,Open Cycle Gas turbines (OCGT)
+BOLIVAR1,SA1,South Australian Water Corporation,SA Water Bolivar Waste Water Treatment (WWT) Plant,Pump Storage
+INVICTA,QLD1,Stanwell Corporation Limited,Invicta Sugar Mill,Steam Sub-Critical
+MACKAYGT,QLD1,Stanwell Corporation Limited,Mackay Gas Turbine,Open Cycle Gas turbines (OCGT)
+STAN-1,QLD1,Stanwell Corporation Limited,Stanwell Power Station,Steam Sub-Critical
+STAN-2,QLD1,Stanwell Corporation Limited,Stanwell Power Station,Steam Sub-Critical
+STAN-3,QLD1,Stanwell Corporation Limited,Stanwell Power Station,Steam Sub-Critical
+STAN-4,QLD1,Stanwell Corporation Limited,Stanwell Power Station,Steam Sub-Critical
+TNPS1,QLD1,Stanwell Corporation Limited,Tarong North Power Station,Steam Super Critical
+TARONG#1,QLD1,Stanwell Corporation Limited,Tarong Power Station,Steam Sub-Critical
+TARONG#2,QLD1,Stanwell Corporation Limited,Tarong Power Station,Steam Sub-Critical
+TARONG#3,QLD1,Stanwell Corporation Limited,Tarong Power Station,Steam Sub-Critical
+TARONG#4,QLD1,Stanwell Corporation Limited,Tarong Power Station,Steam Sub-Critical
+WIVENSH,QLD1,Stanwell Corporation Limited,Wivenhoe Small Hydro,Run of River
+STARHLWF,SA1,Starfish Hill Wind Farm Pty Ltd,Starfish Hill Wind Farm,Wind - Onshore
+SMCSF1,QLD1,Sun Metals Corporation Pty Ltd,Sun Metals Solar Farm,Photovoltaic Flat panel
+SRSF1,QLD1,Susan River Solar Pty Ltd as Trustee for Susan River Solar Trust,Susan River Solar Farm,Photovoltaic Flat panel
+DRYCGT1,SA1,Synergen Power Pty Limited,Dry Creek Gas Turbine Station,Open Cycle Gas turbines (OCGT)
+DRYCGT2,SA1,Synergen Power Pty Limited,Dry Creek Gas Turbine Station,Open Cycle Gas turbines (OCGT)
+DRYCGT3,SA1,Synergen Power Pty Limited,Dry Creek Gas Turbine Station,Open Cycle Gas turbines (OCGT)
+MINTARO,SA1,Synergen Power Pty Limited,Mintaro Gas Turbine Station,Open Cycle Gas turbines (OCGT)
+POR01,SA1,Synergen Power Pty Limited,Port Lincoln Gas Turbine,Open Cycle Gas turbines (OCGT)
+POR03,SA1,Synergen Power Pty Limited,Port Lincoln Gas Turbine,Open Cycle Gas turbines (OCGT)
+SNUG1,SA1,Synergen Power Pty Limited,Snuggery Power Station,Open Cycle Gas turbines (OCGT)
+TARALGA1,NSW1,Taralga Wind Farm Nominees No 2 Pty Ltd (ATF Taralga Wind Farm Operating Trust),Taralga Wind Farm,Wind - Onshore
+EMERASF1,QLD1,Telstra Energy (Generation) Pty Ltd,Emerald Solar Park,Photovoltaic Tracking Flat panel
+MUWAWF1,VIC1,Telstra Energy (Generation) Pty Ltd,Murra Warra Wind Farm,Wind - Onshore
+SAPHWF1,NSW1,The Trustee For The SWF1 Operations Trust,Sapphire Wind Farm,Wind - Onshore
+TOORAWF,VIC1,Toora Wind Farm Pty Ltd,Toora Wind Farm,Wind - Onshore
+TBSF1,SA1,Vena Energy Services (Australia) Pty Ltd,"Tailem Bend Solar Project 1, Units 1-54",Photovoltaic Flat Panel
+TITREE,QLD1,Veolia Environmental Services (Australia) Pty Ltd,Veolia Ti Tree Bio Reactor,Compression Reciprocating Engine
+WATERLWF,SA1,Waterloo Wind Farm Pty Ltd,Waterloo Wind Farm,Wind - Onshore
+WEMENSF1,VIC1,Wemen Asset Co Pty Ltd ATF Wemen Solar Unit Trust ,"Wemen Solar Farm, Units 1-39 ",Photovoltaic Tracking Flat Panel
+WRSF1,NSW1,White Rock Wind Farm Pty Ltd,White Rock Solar Farm,Photovoltaic Flat Panel
+WRWF1,NSW1,White Rock Wind Farm Pty Ltd,White Rock Wind Farm,Wind - Onshore
+WHITSF1,QLD1,Whitsunday Solar Farm Pty Ltd,Whitsunday Solar Farm,Photovoltaic Tracking Flat Panel
+CTHLWF1,TAS1,Wild Cattle Hill Pty Ltd,Cattle Hill Wind Farm,Wind - Onshore
+WGWF1,SA1,Willogoleche Power Pty Ltd as Trustee for the Willogoleche Operating Trust ,Willogoleche Wind Farm,Wind - Onshore
+-,QLD1,Wilmar Sugar Pty Ltd,Victoria Mill,Steam Super Critical
+WHILL1,QLD1,Windy Hill Wind Farm Pty Ltd,Windy Hill Wind Farm,Wind - Onshore
+WOODLWN1,NSW1,Woodlawn Wind Pty Ltd,Woodlawn Wind Farm,Wind - Onshore
+YARANSF1,QLD1,Yarranlea Solar Pty Ltd ,Yarranlea Solar Farm,Photovoltaic Tracking Flat panel
