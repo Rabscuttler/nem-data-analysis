@@ -1,0 +1,38 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+# vim and pipenv
+neovim = "*"
+ipdb = "*"
+nemosis = {editable = true,path = "./NEMOSIS"}
+flake8 = "*"
+nbresuse = "*"
+jupyterthemes = "*"
+jupyterlab = "==1.2"
+
+[packages]
+# numerical computing
+numpy = "*"
+scipy = "*"
+# data
+pandas = "*"
+"dask[complete]" = "*"
+# plotting and jupyter
+matplotlib = "*"
+seaborn = "*"
+plotly = "*"
+cufflinks = "*"
+ipywidgets = "*"
+# io and compression
+fastparquet = "*"
+python-snappy = "*"
+# feedback and usability
+tqdm = "*"
+argparse = "*"
+
+[requires]
+python_version = "3.6"
