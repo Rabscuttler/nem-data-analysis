@@ -54,6 +54,7 @@ docs/_build/
 #Jupyter checkpoints
 *.ipynb_checkpoints
 
-#Data
-*.csv
-*.parquet
+#NEMweb data
+NEM-data/nemweb_data/**/*.csv
+NEM-data/nemweb_data/**/*.CSV
+NEM-data/nemweb_data/**/*.parquet
