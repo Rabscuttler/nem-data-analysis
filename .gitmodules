@@ -1,0 +1,4 @@
+[submodule "NEMOSIS"]
+	path = NEMOSIS
+	url = https://github.com/prakaa/NEMOSIS.git
+	branch = pocket-rocket-nemosis
