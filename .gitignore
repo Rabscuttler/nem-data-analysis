@@ -58,3 +58,6 @@ docs/_build/
 NEM-data/nemweb_data/**/*.csv
 NEM-data/nemweb_data/**/*.CSV
 NEM-data/nemweb_data/**/*.parquet
+
+#VScode settings
+.vscode/settings.json
