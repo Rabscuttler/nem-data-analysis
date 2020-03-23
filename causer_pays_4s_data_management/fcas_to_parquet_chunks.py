@@ -21,7 +21,7 @@ def pathfiles_to_chunks(path, fformat):
     read_files = walk_dirs_for_files(path, fformat)
     concat_df = pd.DataFrame()
     i = 0
-    for file in tqdm.tqdm(read_files, desc='DB Writing:'):
+    for file in tqdm.tqdm(read_files, desc='Reading file:'):
         df = read_dataframes(fformat, file)
         mem = concat_df.memory_usage().sum() / 1e6
         if mem < 1500:
@@ -62,9 +62,9 @@ def read_dataframes(fformat, path):
 
 
 def main():
-    logging.basicConfig(level=logging.INFO)
+    logging.basicConfig(format='\n%(levelname)s:%(message)s',
+                        level=logging.INFO)
     args = arg_parser()
-    logging.info(' DB connected')
     pathfiles_to_chunks(args.path, args.format)
 
 
