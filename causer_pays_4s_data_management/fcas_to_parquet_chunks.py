@@ -13,26 +13,35 @@ def arg_parser():
                         help='recursive search for files with format in path')
     parser.add_argument('-format', type=str, required=True,
                         help='.{format} to search for. csv or parquet')
+    parser.add_argument('-memory_limit', type=int, required=True,
+                        help=('memory (MB) before file write.'
+                              + ' Recommended RAM/2'))
     args = parser.parse_args()
     return args
 
 
-def pathfiles_to_chunks(path, fformat):
+def pathfiles_to_chunks(path, fformat, mem_limit):
     read_files = walk_dirs_for_files(path, fformat)
     concat_df = pd.DataFrame()
     i = 0
     for file in tqdm.tqdm(read_files, desc='Reading file:'):
         df = read_dataframes(fformat, file)
         mem = concat_df.memory_usage().sum() / 1e6
-        if mem < 1500:
+        if mem < mem_limit:
             concat_df = pd.concat([concat_df, df])
             logging.info(f'Memory: {mem}')
-        else:
+        elif mem >= mem_limit:
             chunk_name = path + os.sep + f'chunk{i}.parquet'
             concat_df.to_parquet(chunk_name)
             logging.info(f'Writing chunk {chunk_name}')
             i += 1
             concat_df = pd.DataFrame()
+
+    final_mem = concat_df.memory_usage().sum() / 1e6
+    if final_mem > 0:
+        chunk_name = path + os.sep + f'chunk{i}.parquet'
+        concat_df.to_parquet(chunk_name)
+        logging.info(f'Writing chunk {chunk_name}')
 
 
 def walk_dirs_for_files(path, fformat):
@@ -65,7 +74,7 @@ def main():
     logging.basicConfig(format='\n%(levelname)s:%(message)s',
                         level=logging.INFO)
     args = arg_parser()
-    pathfiles_to_chunks(args.path, args.format)
+    pathfiles_to_chunks(args.path, args.format, args.memory_limit)
 
 
 if __name__ == "__main__":
