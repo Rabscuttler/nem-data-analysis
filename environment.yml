@@ -3,30 +3,30 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - cufflinks-py=0.17.3=py_0
-  - flake8=3.7.9=py36_0
-  - ipykernel=5.1.4=py36h5ca1d4c_0
-  - ipympl=0.5.6=pyh8c360ce_0
-  - ipywidgets=7.5.1=py_0
-  - jupyter_client=6.1.0=py_0
-  - jupyter_core=4.6.3=py36h9f0ad1d_1
-  - jupyterlab=1.2.7=py_0
-  - jupyterlab_server=1.0.7=py_0
-  - jupyterthemes=0.20.0=py_1
+  - cufflinks-py=0.17.3
+  - flake8=3.7.9
+  - ipykernel=5.1.4
+  - ipympl=0.5.6
+  - ipywidgets=7.5.1
+  - jupyter_client=6.1.0
+  - jupyter_core=4.6.3
+  - jupyterlab=1.2.7
+  - jupyterthemes=0.20.0
   - matplotlib=3.2.1=0
-  - matplotlib-base=3.2.1=py36hf0cddfc_0
-  - nbconvert=5.6.1=py36_0
-  - nbformat=5.0.4=py_0
-  - nodejs=13.10.1=0
-  - notebook=6.0.3=py36_0
-  - numpy=1.18.1=py36h93ca92e_0
-  - numpy-base=1.18.1=py36hc3f5095_1
-  - pandas=1.0.2=py36h47e9c7a_0
-  - pip=20.0.2=py_2
-  - plotly=4.5.2=py_0
-  - python=3.6.10=he025d50_1009_cpython
-  - scipy=1.4.1=py36h9439919_0
+  - matplotlib-base=3.2.1
+  - nbconvert=5.6.1
+  - nbformat=5.0.4
+  - nodejs=13.10.1
+  - notebook=6.0.3
+  - numpy=1.18.1
+  - numpy-base=1.18.1
+  - pandas=1.0.2
+  - pip=20.0.2
+  - plotly=4.5.2
+  - python=3.6.10
+  - scipy=1.4.1
   - pip:
+    - "--editable=git+https://github.com/prakaa/NEMOSIS.git@pocket-rocket-nemosis"
     - feather-format==0.4.0
     - joblib==0.14.1
     - pyarrow==0.16.0
