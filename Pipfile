@@ -39,7 +39,7 @@ python-snappy = "*"
 # feedback and usability
 tqdm = "*"
 argparse = "*"
-# project specific dependencied
+# project specific dependencies
 nemosis = {editable = true,path = "./NEMOSIS"}
 src = {editable=true,path = "./source_code"}
 
