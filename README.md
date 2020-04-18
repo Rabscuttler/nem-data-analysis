@@ -6,9 +6,9 @@ Holds code, mapping files, data and analysis of various aspects of Australia's N
 
 Binder
 ------------
-Use Binder to run notebooks in an interactive environment
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prakaa/nem-data-analysis/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prakaa/nem-data-analysis/7c0802edf08dbd4e069a4801fca79fa0342da343)
 
+Use Binder to run notebooks interactively. Note that resource limits might prevent you from running analysis with high volumes of data.
 
 Project Organization
 ------------
