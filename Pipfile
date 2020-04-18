@@ -19,8 +19,6 @@ jupyterlab = "==1.2"
 sphinx = "*"
 # easy envs
  pipenv-setup = "*"
-# io and compression
-python-snappy = "*"
 
 [packages]
 # numerical and data
