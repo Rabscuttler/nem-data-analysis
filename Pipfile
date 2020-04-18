@@ -4,29 +4,32 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+# testing
 pytest = "*"
-# vim and pipenv
+# vim
 neovim = "*"
+# debugging
 ipdb = "*"
-nemosis = {editable = true,path = "./NEMOSIS"}
+# linting
 flake8 = "*"
+# jupyter
 nbresuse = "*"
 jupyterlab = "==1.2"
+# docs
+sphinx = "*"
 
 [packages]
-# numerical computing
+# numerical and data
 numpy = "*"
-scipy = "*"
-# data
 pandas = "*"
-"dask[complete]" = "*"
-# plotting and jupyter
+# plotting
 jupyterthemes = "*"
-ipympl = "*"
 matplotlib = "*"
 seaborn = "*"
 plotly = "*"
 cufflinks = "*"
+# jupyter functionality
+ipympl = "*"
 ipywidgets = "*"
 # io and compression
 fastparquet = "*"
@@ -34,6 +37,9 @@ python-snappy = "*"
 # feedback and usability
 tqdm = "*"
 argparse = "*"
+# project specific dependencied
+nemosis = {editable = true,path = "./NEMOSIS"}
+src = {editable=true,path = "./source_code"}
 
 [requires]
 python_version = "3.6"
