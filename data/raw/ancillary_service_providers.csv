@@ -1,0 +1,797 @@
+Participant,Station Name,Region,DUID,Bid Type,Max Cap (MW),Min Enablement Level,Max Enablement Level,Max Lower Angle,Max Upper Angle
+AGL Hydro Partnership,Bogong / Mackay Power Station,VIC1,MCKAY1,Lower60sec,73.0,0.0,300.0,45.0,90.0
+AGL Hydro Partnership,Bogong / Mackay Power Station,VIC1,MCKAY1,Lower6sec,17.0,0.0,300.0,45.0,90.0
+AGL Hydro Partnership,Bogong / Mackay Power Station,VIC1,MCKAY1,Lowerreg,300.0,0.0,300.0,45.0,90.0
+AGL Hydro Partnership,Bogong / Mackay Power Station,VIC1,MCKAY1,Raise5min,0.0,0.0,0.0,0.0,0.0
+AGL Hydro Partnership,Bogong / Mackay Power Station,VIC1,MCKAY1,Raise60sec,79.0,0.0,300.0,90.0,45.0
+AGL Hydro Partnership,Bogong / Mackay Power Station,VIC1,MCKAY1,Raise6sec,11.0,0.0,300.0,90.0,45.0
+AGL Hydro Partnership,Bogong / Mackay Power Station,VIC1,MCKAY1,Raisereg,300.0,0.0,300.0,90.0,45.0
+AGL Hydro Partnership,Dartmouth Power Station,VIC1,DARTM1,Lower60sec,90.0,0.0,180.0,45.0,90.0
+AGL Hydro Partnership,Dartmouth Power Station,VIC1,DARTM1,Lower6sec,20.0,0.0,180.0,45.0,90.0
+AGL Hydro Partnership,Dartmouth Power Station,VIC1,DARTM1,Lowerreg,176.0,0.0,180.0,45.0,90.0
+AGL Hydro Partnership,Dartmouth Power Station,VIC1,DARTM1,Raise5min,176.0,0.0,180.0,90.0,45.0
+AGL Hydro Partnership,Dartmouth Power Station,VIC1,DARTM1,Raise60sec,90.0,0.0,180.0,90.0,45.0
+AGL Hydro Partnership,Dartmouth Power Station,VIC1,DARTM1,Raise6sec,20.0,0.0,180.0,90.0,45.0
+AGL Hydro Partnership,Dartmouth Power Station,VIC1,DARTM1,Raisereg,176.0,0.0,180.0,90.0,45.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON1,Lower60sec,60.0,0.0,65.0,45.0,90.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON1,Lower6sec,12.0,0.0,65.0,45.0,90.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON1,Lowerreg,60.0,0.0,65.0,45.0,90.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON1,Raise5min,60.0,0.0,65.0,90.0,45.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON1,Raise60sec,60.0,0.0,65.0,90.0,45.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON1,Raise6sec,10.0,0.0,65.0,90.0,45.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON1,Raisereg,60.0,0.0,65.0,90.0,45.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON2,Lower60sec,60.0,0.0,65.0,45.0,90.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON2,Lower6sec,12.0,0.0,65.0,45.0,90.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON2,Lowerreg,60.0,0.0,65.0,45.0,90.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON2,Raise5min,60.0,0.0,65.0,90.0,45.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON2,Raise60sec,60.0,0.0,65.0,90.0,45.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON2,Raise6sec,10.0,0.0,65.0,90.0,45.0
+AGL Hydro Partnership,Eildon Power Station,VIC1,EILDON2,Raisereg,60.0,0.0,65.0,90.0,45.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA1,Lower60sec,7.0,0.0,34.0,45.0,90.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA1,Lower6sec,6.0,0.0,34.0,45.0,90.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA1,Lowerreg,34.0,0.0,34.0,45.0,90.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA1,Raise60sec,7.0,0.0,34.0,90.0,45.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA1,Raise6sec,5.0,0.0,34.0,90.0,45.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA1,Raisereg,34.0,0.0,34.0,90.0,45.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA2,Lower60sec,7.0,0.0,34.0,45.0,90.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA2,Lower6sec,6.0,0.0,34.0,45.0,90.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA2,Lowerreg,34.0,0.0,34.0,45.0,90.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA2,Raise60sec,7.0,0.0,34.0,90.0,45.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA2,Raise6sec,5.0,0.0,34.0,90.0,45.0
+AGL Hydro Partnership,West Kiewa Power Station,VIC1,WKIEWA2,Raisereg,34.0,0.0,34.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA1,Lower5min,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA1,Lower60sec,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA1,Lower6sec,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA1,Lowerreg,50.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA1,Raise5min,30.0,300.0,580.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA1,Raise60sec,30.0,300.0,580.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA1,Raise6sec,20.0,300.0,580.0,90.0,34.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA1,Raisereg,50.0,300.0,580.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA2,Lower5min,70.0,300.0,530.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA2,Lower60sec,70.0,300.0,530.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA2,Lower6sec,70.0,300.0,530.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA2,Lowerreg,50.0,300.0,530.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA2,Raise5min,30.0,300.0,530.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA2,Raise60sec,30.0,300.0,530.0,90.0,24.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA2,Raise6sec,20.0,300.0,530.0,90.0,16.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA2,Raisereg,50.0,300.0,530.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA3,Lower5min,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA3,Lower60sec,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA3,Lower6sec,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA3,Lowerreg,50.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA3,Raise5min,30.0,300.0,580.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA3,Raise60sec,30.0,300.0,580.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA3,Raise6sec,20.0,300.0,580.0,90.0,34.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA3,Raisereg,50.0,300.0,580.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA4,Lower5min,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA4,Lower60sec,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA4,Lower6sec,70.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA4,Lowerreg,50.0,300.0,580.0,45.0,90.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA4,Raise5min,30.0,300.0,580.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA4,Raise60sec,30.0,300.0,580.0,90.0,45.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA4,Raise6sec,20.0,300.0,580.0,90.0,34.0
+AGL Loy Yang Marketing Pty Ltd,Loy Yang A Power Station,VIC1,LYA4,Raisereg,50.0,300.0,580.0,90.0,45.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW01,Lower5min,66.0,240.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW01,Lower60sec,66.0,234.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW01,Lower6sec,66.0,234.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW01,Lowerreg,100.0,240.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW01,Raise5min,66.0,240.0,690.0,90.0,45.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW01,Raise60sec,66.0,234.0,690.0,45.0,32.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW01,Raise6sec,66.0,234.0,690.0,45.0,32.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW01,Raisereg,100.0,240.0,690.0,90.0,45.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW02,Lower5min,66.0,240.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW02,Lower60sec,66.0,234.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW02,Lower6sec,66.0,234.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW02,Lowerreg,100.0,240.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW02,Raise5min,66.0,240.0,690.0,90.0,45.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW02,Raise60sec,66.0,234.0,690.0,45.0,32.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW02,Raise6sec,66.0,234.0,690.0,45.0,32.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW02,Raisereg,100.0,240.0,690.0,90.0,45.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW03,Lower5min,66.0,240.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW03,Lower60sec,66.0,234.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW03,Lower6sec,66.0,234.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW03,Lowerreg,100.0,240.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW03,Raise5min,66.0,240.0,690.0,90.0,45.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW03,Raise60sec,66.0,234.0,690.0,45.0,32.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW03,Raise6sec,66.0,234.0,690.0,45.0,32.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW03,Raisereg,100.0,240.0,690.0,90.0,45.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW04,Lower5min,66.0,240.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW04,Lower60sec,66.0,234.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW04,Lower6sec,66.0,234.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW04,Lowerreg,100.0,240.0,690.0,45.0,90.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW04,Raise5min,66.0,240.0,690.0,90.0,45.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW04,Raise60sec,66.0,234.0,690.0,45.0,32.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW04,Raise6sec,66.0,234.0,690.0,45.0,32.0
+AGL Macquarie Pty Limited,Bayswater Power Station,NSW1,BW04,Raisereg,100.0,240.0,690.0,90.0,45.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD01,Lower5min,30.0,240.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD01,Lower60sec,100.0,150.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD01,Lower6sec,100.0,150.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD01,Lowerreg,20.0,240.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD01,Raise5min,30.0,240.0,520.0,90.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD01,Raise60sec,30.0,220.0,520.0,45.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD01,Raise6sec,30.0,220.0,520.0,45.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD01,Raisereg,20.0,240.0,520.0,90.0,45.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD02,Lower5min,30.0,240.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD02,Lower60sec,100.0,150.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD02,Lower6sec,100.0,150.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD02,Lowerreg,20.0,240.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD02,Raise5min,30.0,240.0,520.0,90.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD02,Raise60sec,30.0,220.0,520.0,45.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD02,Raise6sec,30.0,220.0,520.0,45.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD02,Raisereg,20.0,240.0,520.0,90.0,45.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD03,Lower5min,30.0,240.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD03,Lower60sec,100.0,150.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD03,Lower6sec,100.0,150.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD03,Lowerreg,20.0,240.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD03,Raise5min,30.0,240.0,520.0,90.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD03,Raise60sec,30.0,220.0,520.0,45.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD03,Raise6sec,30.0,220.0,520.0,45.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD03,Raisereg,20.0,240.0,520.0,90.0,45.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD04,Lower5min,30.0,240.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD04,Lower60sec,100.0,150.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD04,Lower6sec,100.0,150.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD04,Lowerreg,20.0,240.0,520.0,45.0,90.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD04,Raise5min,30.0,240.0,520.0,90.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD04,Raise60sec,30.0,220.0,520.0,45.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD04,Raise6sec,30.0,220.0,520.0,45.0,22.0
+AGL Macquarie Pty Limited,Liddell Power Station,NSW1,LD04,Raisereg,20.0,240.0,520.0,90.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA1,Lower60sec,25.0,50.0,120.0,63.0,40.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA1,Lower6sec,10.0,50.0,120.0,50.0,22.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA1,Lowerreg,25.0,50.0,120.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA1,Raise60sec,25.0,50.0,120.0,63.0,40.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA1,Raise6sec,10.0,50.0,120.0,50.0,22.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA1,Raisereg,25.0,50.0,120.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA2,Lower60sec,25.0,50.0,120.0,63.0,40.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA2,Lower6sec,10.0,50.0,120.0,50.0,22.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA2,Lowerreg,25.0,50.0,120.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA2,Raise60sec,25.0,50.0,120.0,63.0,40.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA2,Raise6sec,10.0,50.0,120.0,50.0,22.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA2,Raisereg,25.0,50.0,120.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA3,Lower60sec,25.0,50.0,120.0,63.0,40.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA3,Lower6sec,10.0,50.0,120.0,50.0,22.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA3,Lowerreg,25.0,50.0,120.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA3,Raise60sec,25.0,50.0,120.0,63.0,40.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA3,Raise6sec,10.0,50.0,120.0,50.0,22.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA3,Raisereg,25.0,50.0,120.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA4,Lower60sec,25.0,50.0,120.0,63.0,40.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA4,Lower6sec,10.0,50.0,120.0,50.0,22.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA4,Lowerreg,25.0,50.0,120.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA4,Raise60sec,25.0,50.0,120.0,63.0,40.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA4,Raise6sec,10.0,50.0,120.0,50.0,22.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRA4,Raisereg,25.0,50.0,120.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB1,Lower5min,50.0,60.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB1,Lower60sec,30.0,40.0,200.0,55.0,75.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB1,Lower6sec,15.0,40.0,200.0,40.0,65.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB1,Lowerreg,25.0,40.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB1,Raise5min,50.0,60.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB1,Raise60sec,30.0,40.0,200.0,55.0,75.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB1,Raise6sec,15.0,40.0,200.0,40.0,65.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB1,Raisereg,40.0,40.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB2,Lower5min,50.0,60.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB2,Lower60sec,30.0,40.0,200.0,55.0,75.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB2,Lower6sec,15.0,40.0,200.0,40.0,65.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB2,Lowerreg,25.0,40.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB2,Raise5min,50.0,60.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB2,Raise60sec,30.0,40.0,200.0,55.0,75.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB2,Raise6sec,15.0,40.0,200.0,40.0,65.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB2,Raisereg,40.0,40.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB3,Lower5min,50.0,60.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB3,Lower60sec,30.0,40.0,200.0,55.0,75.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB3,Lower6sec,15.0,40.0,200.0,40.0,65.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB3,Lowerreg,25.0,40.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB3,Raise5min,50.0,60.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB3,Raise60sec,30.0,40.0,200.0,55.0,75.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB3,Raise6sec,15.0,40.0,200.0,40.0,65.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB3,Raisereg,40.0,40.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB4,Lower5min,50.0,60.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB4,Lower60sec,30.0,40.0,200.0,55.0,75.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB4,Lower6sec,15.0,40.0,200.0,40.0,65.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB4,Lowerreg,25.0,40.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB4,Raise5min,50.0,60.0,200.0,45.0,45.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB4,Raise60sec,30.0,40.0,200.0,55.0,75.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB4,Raise6sec,15.0,40.0,200.0,40.0,65.0
+AGL SA Generation Pty Limited,Torrens Island Power Station,SA1,TORRB4,Raisereg,40.0,40.0,200.0,45.0,45.0
+AGL South Australia Pty Limited,VPP AGLE SA 1,SA1,VSSAE1V1,Lower6sec,2.0,0.0,0.0,90.0,90.0
+AGL South Australia Pty Limited,VPP AGLE SA 1,SA1,VSSAE1V1,Raise6sec,3.0,0.0,0.0,90.0,90.0
+AGL South Australia Pty Limited,VPP AGLE SA 1,SA1,VSSAE1V1,Lower60sec,2.0,0.0,0.0,90.0,90.0
+AGL South Australia Pty Limited,VPP AGLE SA 1,SA1,VSSAE1V1,Raise60sec,3.0,0.0,0.0,90.0,90.0
+AGL South Australia Pty Limited,VPP AGLE SA 1,SA1,VSSAE1V1,Lower5min,2.0,0.0,0.0,90.0,90.0
+AGL South Australia Pty Limited,VPP AGLE SA 1,SA1,VSSAE1V1,Rasie5min,3.0,0.0,0.0,90.0,90.0
+Alcoa Portland Aluminium Pty Ltd,Portland,VIC1,APD01,Lower5min,0.0,0.0,0.0,0.0,0.0
+Alcoa Portland Aluminium Pty Ltd,Portland,VIC1,APD01,Lower60sec,0.0,0.0,0.0,0.0,0.0
+Alcoa Portland Aluminium Pty Ltd,Portland,VIC1,APD01,Lower6sec,0.0,0.0,0.0,0.0,0.0
+Alcoa Portland Aluminium Pty Ltd,Portland,VIC1,APD01,Raise5min,450.0,0.0,0.0,90.0,90.0
+Alcoa Portland Aluminium Pty Ltd,Portland,VIC1,APD01,Raise60sec,450.0,0.0,0.0,90.0,90.0
+Alcoa Portland Aluminium Pty Ltd,Portland,VIC1,APD01,Raise6sec,450.0,0.0,0.0,90.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB1,Lower5min,75.0,320.0,550.0,45.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB1,Lower60sec,100.0,320.0,550.0,45.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB1,Lower6sec,100.0,320.0,550.0,45.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB1,Lowerreg,75.0,320.0,550.0,45.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB1,Raise5min,75.0,320.0,550.0,90.0,45.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB1,Raise60sec,60.0,320.0,550.0,90.0,45.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB1,Raise6sec,60.0,320.0,550.0,90.0,45.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB1,Raisereg,75.0,320.0,550.0,90.0,45.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB2,Lower5min,75.0,320.0,550.0,45.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB2,Lower60sec,100.0,320.0,550.0,45.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB2,Lower6sec,100.0,320.0,550.0,45.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB2,Lowerreg,75.0,320.0,550.0,45.0,90.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB2,Raise5min,75.0,320.0,550.0,90.0,45.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB2,Raise60sec,60.0,320.0,550.0,90.0,45.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB2,Raise6sec,60.0,320.0,550.0,90.0,45.0
+Alinta Energy Retail Sales Pty Ltd,Loy Yang B Power Station,VIC1,LOYYB2,Raisereg,75.0,320.0,550.0,90.0,45.0
+Amalgamated Energy Services Pty Ltd,AS AES NSW,NSW1,ASNAES1,Lower5min,1.0,0.0,0.0,90.0,90.0
+Amalgamated Energy Services Pty Ltd,AS AES NSW,NSW1,ASNAES1,Lower60sec,2.0,0.0,0.0,90.0,90.0
+Amalgamated Energy Services Pty Ltd,AS AES NSW,NSW1,ASNAES1,Lower6sec,1.0,0.0,0.0,90.0,90.0
+Amalgamated Energy Services Pty Ltd,AS AES NSW,NSW1,ASNAES1,Rasie5min,1.0,0.0,0.0,90.0,90.0
+Amalgamated Energy Services Pty Ltd,AS AES NSW,NSW1,ASNAES1,Raise60sec,1.0,0.0,0.0,90.0,90.0
+Amalgamated Energy Services Pty Ltd,AS AES NSW,NSW1,ASNAES1,Raise6sec,1.0,0.0,0.0,90.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR1,Lower5min,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR1,Lower60sec,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR1,Lower6sec,36.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR1,Lowerreg,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR1,Raise5min,71.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR1,Raise60sec,71.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR1,Raise6sec,36.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR1,Raisereg,71.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR2,Lower5min,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR2,Lower60sec,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR2,Lower6sec,36.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR2,Lowerreg,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR2,Raise5min,71.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR2,Raise60sec,71.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR2,Raise6sec,36.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR2,Raisereg,71.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR3,Lower5min,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR3,Lower60sec,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR3,Lower6sec,36.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR3,Lowerreg,71.0,97.0,168.0,45.0,90.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR3,Raise5min,71.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR3,Raise60sec,71.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR3,Raise6sec,36.0,97.0,168.0,90.0,45.0
+Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,BRAEMAR3,Raisereg,71.0,97.0,168.0,90.0,45.0
+CleanCo Queensland Ltd,Swanbank B Power Station & Swanbank E Gas Turbine,QLD1,SWAN_E,Lower60sec,50.0,150.0,385.0,90.0,90.0
+CleanCo Queensland Ltd,Swanbank B Power Station & Swanbank E Gas Turbine,QLD1,SWAN_E,Lowerreg,57.0,145.0,385.0,45.0,90.0
+CleanCo Queensland Ltd,Swanbank B Power Station & Swanbank E Gas Turbine,QLD1,SWAN_E,Raise60sec,50.0,150.0,385.0,90.0,30.0
+CleanCo Queensland Ltd,Swanbank B Power Station & Swanbank E Gas Turbine,QLD1,SWAN_E,Raisereg,57.0,145.0,385.0,90.0,45.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,PUMP1,Raise5min,245.0,0.0,245.0,45.0,90.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,PUMP1,Raise60sec,245.0,0.0,245.0,45.0,90.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,PUMP1,Raise6sec,245.0,0.0,245.0,45.0,90.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,PUMP2,Raise5min,245.0,0.0,245.0,45.0,90.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,PUMP2,Raise60sec,245.0,0.0,245.0,45.0,90.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,PUMP2,Raise6sec,245.0,0.0,245.0,45.0,90.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,W/HOE#1,Raise5min,285.0,0.0,285.0,90.0,45.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,W/HOE#1,Raise60sec,285.0,0.0,285.0,90.0,45.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,W/HOE#2,Raise5min,285.0,0.0,285.0,90.0,45.0
+CleanCo Queensland Ltd,Wivenhoe Power Station,QLD1,W/HOE#2,Raise60sec,285.0,0.0,285.0,90.0,45.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_1,Lower5min,35.0,140.0,350.0,45.0,90.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_1,Lower60sec,60.0,165.0,360.0,45.0,90.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_1,Lower6sec,50.0,165.0,360.0,45.0,90.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_1,Lowerreg,15.0,165.0,360.0,45.0,90.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_1,Raise5min,15.0,165.0,360.0,90.0,45.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_1,Raise60sec,35.0,165.0,360.0,90.0,21.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_1,Raise6sec,23.0,165.0,360.0,90.0,21.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_1,Raisereg,15.0,165.0,360.0,90.0,45.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_2,Lower5min,35.0,140.0,350.0,45.0,90.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_2,Lower60sec,60.0,165.0,360.0,45.0,90.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_2,Lower6sec,50.0,165.0,360.0,45.0,90.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_2,Lowerreg,15.0,165.0,360.0,45.0,90.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_2,Raise5min,15.0,165.0,360.0,90.0,45.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_2,Raise60sec,35.0,165.0,360.0,90.0,21.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_2,Raise6sec,23.0,165.0,360.0,90.0,21.0
+CS Energy Limited,Callide Power Station,QLD1,CALL_B_2,Raisereg,15.0,165.0,360.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE1,Lower5min,25.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE1,Lower60sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE1,Lower6sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE1,Lowerreg,75.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE1,Raise5min,25.0,105.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE1,Raise60sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE1,Raise6sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE1,Raisereg,75.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE2,Lower5min,25.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE2,Lower60sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE2,Lower6sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE2,Lowerreg,75.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE2,Raise5min,25.0,105.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE2,Raise60sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE2,Raise6sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE2,Raisereg,75.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE3,Lower5min,25.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE3,Lower60sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE3,Lower6sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE3,Lowerreg,75.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE3,Raise5min,25.0,105.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE3,Raise60sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE3,Raise6sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE3,Raisereg,75.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE4,Lower5min,25.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE4,Lower60sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE4,Lower6sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE4,Lowerreg,75.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE4,Raise5min,25.0,105.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE4,Raise60sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE4,Raise6sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE4,Raisereg,75.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE5,Lower5min,25.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE5,Lower60sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE5,Lower6sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE5,Lowerreg,75.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE5,Raise5min,25.0,105.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE5,Raise60sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE5,Raise6sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE5,Raisereg,75.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE6,Lower5min,25.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE6,Lower60sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE6,Lower6sec,20.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE6,Lowerreg,75.0,110.0,285.0,45.0,90.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE6,Raise5min,25.0,105.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE6,Raise60sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE6,Raise6sec,30.0,110.0,285.0,90.0,45.0
+CS Energy Limited,Gladstone Power Station,QLD1,GSTONE6,Raisereg,75.0,110.0,285.0,90.0,45.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP5,Lower5min,40.0,280.0,665.0,45.0,90.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP5,Lower60sec,100.0,245.0,665.0,45.0,90.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP5,Lower6sec,60.0,245.0,665.0,45.0,90.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP5,Lowerreg,50.0,250.0,660.0,45.0,90.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP5,Raise5min,20.0,245.0,660.0,90.0,45.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP5,Raise60sec,33.0,245.0,660.0,90.0,45.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP5,Raise6sec,33.0,245.0,660.0,90.0,45.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP5,Raisereg,50.0,250.0,660.0,90.0,45.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP6,Lower5min,40.0,280.0,665.0,45.0,90.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP6,Lower60sec,100.0,245.0,665.0,45.0,90.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP6,Lower6sec,60.0,245.0,665.0,45.0,90.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP6,Lowerreg,50.0,250.0,660.0,45.0,90.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP6,Raise5min,20.0,245.0,660.0,90.0,45.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP6,Raise60sec,33.0,245.0,660.0,90.0,45.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP6,Raise6sec,33.0,245.0,660.0,90.0,45.0
+Delta Electricity,"Vales Point ""B"" Power Station",NSW1,VP6,Raisereg,50.0,250.0,660.0,90.0,45.0
+Ecogen Energy Pty Ltd,Newport Power Station,VIC1,NPS,Lower60sec,120.0,80.0,510.0,45.0,45.0
+Ecogen Energy Pty Ltd,Newport Power Station,VIC1,NPS,Lower6sec,80.0,99.0,510.0,45.0,45.0
+Ecogen Energy Pty Ltd,Newport Power Station,VIC1,NPS,Lowerreg,50.0,99.0,510.0,45.0,45.0
+Ecogen Energy Pty Ltd,Newport Power Station,VIC1,NPS,Raise60sec,120.0,99.0,510.0,45.0,45.0
+Ecogen Energy Pty Ltd,Newport Power Station,VIC1,NPS,Raisereg,50.0,99.0,510.0,45.0,45.0
+Ecogen Energy Pty Ltd,Newport Power Station,VIC1,NPS,Raise6sec,80.0,99.0,510.0,45.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBG1,Lowerreg,30.0,0.0,30.0,45.0,90.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBG1,Raise5min,30.0,0.0,30.0,90.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBG1,Raise60sec,30.0,0.0,30.0,90.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBG1,Raise6sec,30.0,0.0,30.0,90.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBG1,Raisereg,30.0,0.0,30.0,90.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBL1,Lowerreg,30.0,0.0,30.0,90.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBL1,Lower5min,30.0,0.0,30.0,90.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBL1,Lower60sec,30.0,0.0,30.0,90.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBL1,Lower6sec,30.0,0.0,30.0,90.0,45.0
+EnergyAustralia Pty Ltd,Ballarat Battery Energy Storage System,VIC1,BALBL1,Raisereg,30.0,0.0,30.0,45.0,90.0
+EnergyAustralia Pty Ltd,Gannawarra Battery Energy Storage System,VIC1,GANNBG1,Lowerreg,25.0,0.0,25.0,45.0,90.0
+EnergyAustralia Pty Ltd,Gannawarra Battery Energy Storage System,VIC1,GANNBG1,Raisereg,25.0,0.0,25.0,90.0,45.0
+EnergyAustralia Pty Ltd,Gannawarra Battery Energy Storage System,VIC1,GANNBL1,Lowerreg,25.0,0.0,25.0,90.0,45.0
+EnergyAustralia Pty Ltd,Gannawarra Battery Energy Storage System,VIC1,GANNBL1,Raisereg,25.0,0.0,25.0,45.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP1,Lower5min,100.0,300.0,700.0,45.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP1,Lower60sec,100.0,215.0,700.0,45.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP1,Lower6sec,70.0,215.0,700.0,45.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP1,Lowerreg,60.0,220.0,700.0,36.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP1,Raise5min,70.0,215.0,700.0,45.0,45.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP1,Raise60sec,66.0,215.0,700.0,45.0,45.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP1,Raise6sec,66.0,215.0,700.0,90.0,45.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP1,Raisereg,60.0,220.0,700.0,45.0,45.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP2,Lower5min,100.0,300.0,700.0,45.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP2,Lower60sec,100.0,215.0,700.0,45.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP2,Lower6sec,70.0,215.0,700.0,45.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP2,Lowerreg,60.0,220.0,700.0,36.0,90.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP2,Raise5min,70.0,215.0,700.0,45.0,45.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP2,Raise60sec,66.0,215.0,700.0,45.0,45.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP2,Raise6sec,66.0,215.0,700.0,90.0,45.0
+EnergyAustralia Pty Ltd,Mt Piper Power Station,NSW1,MP2,Raisereg,60.0,220.0,700.0,45.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS1,Lower5min,15.0,250.0,375.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS1,Lower60sec,20.0,220.0,380.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS1,Lower6sec,20.0,220.0,380.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS1,Lowerreg,15.0,250.0,365.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS1,Raise5min,15.0,250.0,375.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS1,Raise60sec,20.0,220.0,380.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS1,Raise6sec,20.0,220.0,380.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS1,Raisereg,15.0,250.0,365.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS2,Lower5min,15.0,250.0,375.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS2,Lower60sec,20.0,220.0,380.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS2,Lower6sec,20.0,220.0,380.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS2,Lowerreg,15.0,250.0,365.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS2,Raise5min,15.0,250.0,375.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS2,Raise60sec,20.0,220.0,380.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS2,Raise6sec,20.0,220.0,380.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS2,Raisereg,15.0,250.0,365.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS3,Lower5min,20.0,250.0,390.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS3,Lower60sec,20.0,220.0,400.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS3,Lower6sec,25.0,220.0,405.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS3,Lowerreg,20.0,250.0,385.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS3,Raise5min,20.0,250.0,390.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS3,Raise60sec,20.0,220.0,400.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS3,Raise6sec,25.0,220.0,405.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS3,Raisereg,20.0,250.0,385.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS4,Lower5min,20.0,250.0,390.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS4,Lower60sec,20.0,220.0,400.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS4,Lower6sec,25.0,220.0,405.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS4,Lowerreg,20.0,250.0,385.0,45.0,90.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS4,Raise5min,20.0,250.0,390.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS4,Raise60sec,20.0,220.0,400.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS4,Raise6sec,25.0,220.0,405.0,90.0,45.0
+EnergyAustralia Yallourn Pty Ltd,Yallourn 'W' Power Station,VIC1,YWPS4,Raisereg,20.0,250.0,385.0,90.0,45.0
+Energy Locals Pty Ltd,Energy Locals SA VPP,SA1,ASSEL1,Lower60sec,0.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,Energy Locals SA VPP,SA1,ASSEL1,Raise60sec,0.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,Energy Locals SA VPP,SA1,ASSEL1,Lower5min,0.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,Energy Locals SA VPP,SA1,ASSEL1,Rasie5min,0.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,VPP Energy Locals SA 1,SA1,VSSEL1V1,Lower6sec,2.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,VPP Energy Locals SA 1,SA1,VSSEL1V1,Raise6sec,2.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,VPP Energy Locals SA 1,SA1,VSSEL1V1,Lower60sec,2.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,VPP Energy Locals SA 1,SA1,VSSEL1V1,Raise60sec,2.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,VPP Energy Locals SA 1,SA1,VSSEL1V1,Lower5min,2.0,0.0,0.0,90.0,90.0
+Energy Locals Pty Ltd,VPP Energy Locals SA 1,SA1,VSSEL1V1,Rasie5min,2.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP QLD,QLD1,ASQENC1,Raise5min,18.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP QLD,QLD1,ASQENC1,Raise60sec,37.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP QLD,QLD1,ASQENC1,Raise6sec,25.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP NSW,NSW1,ASNENC1,Raise5min,122.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP NSW,NSW1,ASNENC1,Raise60sec,177.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP NSW,NSW1,ASNENC1,Raise6sec,88.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP VIC,VIC1,VENUS1,Raise5min,39.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP VIC,VIC1,VENUS1,Raise60sec,60.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP VIC,VIC1,VENUS1,Raise6sec,42.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP SA,SA1,ASSENC1,Raise5min,6.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP SA,SA1,ASSENC1,Raise60sec,10.0,0.0,0.0,90.0,90.0
+Enel X Australia Pty Ltd ,ENOC MASP SA,SA1,ASSENC1,Raise6sec,7.0,0.0,0.0,90.0,90.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY1,Raise5min,25.0,40.0,173.0,90.0,45.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY1,Raise60sec,25.0,40.0,173.0,90.0,45.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY1,Raisereg,50.0,40.0,173.0,90.0,45.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY1,Lowerreg,50.0,40.0,173.0,45.0,90.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY1,Lower60sec,25.0,40.0,173.0,45.0,90.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY1,Lower5min,25.0,40.0,173.0,45.0,90.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY2,Raise5min,25.0,40.0,173.0,90.0,45.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY2,Raise60sec,25.0,40.0,173.0,90.0,45.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY2,Raisereg,50.0,40.0,173.0,90.0,45.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY2,Lowerreg,50.0,40.0,173.0,45.0,90.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY2,Lower60sec,25.0,40.0,173.0,45.0,90.0
+ERM Power Retail Pty Ltd ,Oakey Power Station,QLD1,OAKEY2,Lower5min,25.0,40.0,173.0,45.0,90.0
+Greentricity Pty Ltd,Dalrymple North Battery Energy Storage System,SA1,DALNTH01,Raise5min,30.0,0.0,30.0,90.0,45.0
+Greentricity Pty Ltd,Dalrymple North Battery Energy Storage System,SA1,DALNTH01,Raise60sec,30.0,0.0,30.0,90.0,45.0
+Greentricity Pty Ltd,Dalrymple North Battery Energy Storage System,SA1,DALNTH01,Raise6sec,30.0,0.0,30.0,90.0,45.0
+Greentricity Pty Ltd,Dalrymple North Battery Energy Storage System,SA1,DALNTHL1,Lower5min,30.0,0.0,30.0,90.0,45.0
+Greentricity Pty Ltd,Dalrymple North Battery Energy Storage System,SA1,DALNTHL1,Lower60sec,30.0,0.0,30.0,90.0,45.0
+Greentricity Pty Ltd,Dalrymple North Battery Energy Storage System,SA1,DALNTHL1,Lower6sec,30.0,0.0,30.0,90.0,45.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRG1,Raisereg,100.0,0.0,100.0,90.0,45.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRG1,Raise5min,41.0,0.0,100.0,90.0,45.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRG1,Raise60sec,19.0,0.0,100.0,90.0,25.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRG1,Raise6sec,63.0,0.0,100.0,90.0,57.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRG1,Lowerreg,100.0,0.0,100.0,45.0,90.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRL1,Lowerreg,80.0,0.0,80.0,90.0,45.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRL1,Raisereg,80.0,0.0,80.0,45.0,90.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRL1,Lower5min,41.0,0.0,80.0,90.0,45.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRL1,Lower60sec,19.0,0.0,80.0,90.0,25.0
+Hornsdale Power Reserve Pty Ltd,Hornsdale Power Reserve,SA1,HPRL1,Lower6sec,63.0,0.0,80.0,90.0,57.0
+HWF1 Pty Ltd,Hornsdale Wind Farm 1,SA1,HDWF1,Lowerreg,20.0,15.0,102.0,45.0,63.0
+HWF1 Pty Ltd,Hornsdale Wind Farm 1,SA1,HDWF1,Raisereg,20.0,15.0,102.0,90.0,34.0
+HWF 2 Pty Ltd,Hornsdale Wind Farm 2,SA1,HDWF2,Lower5min,20.0,20.0,102.0,45.0,68.0
+HWF 2 Pty Ltd,Hornsdale Wind Farm 2,SA1,HDWF2,Lower60sec,20.0,20.0,102.0,45.0,65.0
+HWF 2 Pty Ltd,Hornsdale Wind Farm 2,SA1,HDWF2,Lowerreg,20.0,15.0,102.0,45.0,63.0
+HWF 2 Pty Ltd,Hornsdale Wind Farm 2,SA1,HDWF2,Raise5min,20.0,20.0,102.0,90.0,14.0
+HWF 2 Pty Ltd,Hornsdale Wind Farm 2,SA1,HDWF2,Raise60sec,20.0,20.0,102.0,90.0,21.0
+HWF 2 Pty Ltd,Hornsdale Wind Farm 2,SA1,HDWF2,Raisereg,20.0,15.0,102.0,90.0,34.0
+HWF3 Pty Ltd,Hornsdale Wind Farm 3,SA1,HDWF3,Lowerreg,20.0,15.0,109.0,45.0,62.0
+HWF3 Pty Ltd,Hornsdale Wind Farm 3,SA1,HDWF3,Raisereg,20.0,15.0,109.0,90.0,33.0
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,BASTYAN,Lower5min,88.0,0.0,88.0,45.0,90.0
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,BASTYAN,Lower60sec,47.0,0.0,89.0,49.0,71.0
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,BASTYAN,Lower6sec,6.0,0.0,87.0,31.0,14.0
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,BASTYAN,Lowerreg,88.0,0.0,88.0,45.0,90.0
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,BASTYAN,Raise5min,88.0,0.0,88.0,90.0,45.0
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,BASTYAN,Raise60sec,46.0,0.0,83.0,82.0,55.0
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,BASTYAN,Raise6sec,6.0,0.0,83.0,48.0,12.0
+Hydro-Electric Corporation,Bastyan Power Station,TAS1,BASTYAN,Raisereg,88.0,0.0,88.0,90.0,45.0
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,LI_WY_CA,Lower5min,183.0,0.0,183.0,45.0,90.0
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,LI_WY_CA,Lower60sec,145.0,0.0,174.0,63.0,90.0
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,LI_WY_CA,Lower6sec,30.0,0.0,167.0,69.0,35.0
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,LI_WY_CA,Lowerreg,183.0,0.0,183.0,45.0,90.0
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,LI_WY_CA,Raise5min,183.0,0.0,183.0,90.0,45.0
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,LI_WY_CA,Raise60sec,142.0,0.0,159.0,90.0,61.0
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,LI_WY_CA,Raise6sec,25.0,0.0,155.0,83.0,23.0
+Hydro-Electric Corporation,Catagunya / Liapootah / Wayatinah Power Station,TAS1,LI_WY_CA,Raisereg,183.0,0.0,183.0,90.0,45.0
+Hydro-Electric Corporation,Cethana Power Station,TAS1,CETHANA,Lower5min,100.0,0.0,100.0,45.0,90.0
+Hydro-Electric Corporation,Cethana Power Station,TAS1,CETHANA,Lower60sec,118.0,0.0,100.0,65.0,90.0
+Hydro-Electric Corporation,Cethana Power Station,TAS1,CETHANA,Lower6sec,20.0,0.0,100.0,69.0,34.0
+Hydro-Electric Corporation,Cethana Power Station,TAS1,CETHANA,Lowerreg,100.0,0.0,100.0,45.0,90.0
+Hydro-Electric Corporation,Cethana Power Station,TAS1,CETHANA,Raise5min,100.0,0.0,100.0,90.0,45.0
+Hydro-Electric Corporation,Cethana Power Station,TAS1,CETHANA,Raise60sec,121.0,0.0,100.0,90.0,61.0
+Hydro-Electric Corporation,Cethana Power Station,TAS1,CETHANA,Raise6sec,17.0,0.0,100.0,90.0,22.0
+Hydro-Electric Corporation,Cethana Power Station,TAS1,CETHANA,Raisereg,100.0,0.0,100.0,90.0,45.0
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,DEVILS_G,Lower5min,67.0,0.0,67.0,45.0,90.0
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,DEVILS_G,Lower60sec,85.0,0.0,65.0,61.0,87.0
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,DEVILS_G,Lower6sec,11.0,0.0,63.0,69.0,38.0
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,DEVILS_G,Lowerreg,67.0,0.0,67.0,45.0,90.0
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,DEVILS_G,Raise5min,67.0,0.0,67.0,90.0,45.0
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,DEVILS_G,Raise60sec,81.0,0.0,65.0,90.0,57.0
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,DEVILS_G,Raise6sec,10.0,0.0,60.0,87.0,15.0
+Hydro-Electric Corporation,Devils Gate Power Station,TAS1,DEVILS_G,Raisereg,67.0,0.0,67.0,90.0,45.0
+Hydro-Electric Corporation,Fisher Power Station,TAS1,FISHER,Lower5min,46.0,0.0,46.0,45.0,90.0
+Hydro-Electric Corporation,Fisher Power Station,TAS1,FISHER,Lower60sec,20.0,0.0,46.0,59.0,90.0
+Hydro-Electric Corporation,Fisher Power Station,TAS1,FISHER,Lower6sec,27.0,6.0,46.0,34.0,90.0
+Hydro-Electric Corporation,Fisher Power Station,TAS1,FISHER,Lowerreg,46.0,0.0,46.0,45.0,90.0
+Hydro-Electric Corporation,Fisher Power Station,TAS1,FISHER,Raise5min,46.0,0.0,46.0,90.0,45.0
+Hydro-Electric Corporation,Fisher Power Station,TAS1,FISHER,Raise60sec,21.0,0.0,46.0,90.0,67.0
+Hydro-Electric Corporation,Fisher Power Station,TAS1,FISHER,Raise6sec,3.0,0.0,46.0,90.0,90.0
+Hydro-Electric Corporation,Fisher Power Station,TAS1,FISHER,Raisereg,46.0,0.0,46.0,90.0,45.0
+Hydro-Electric Corporation,Gordon Power Station,TAS1,GORDON,Lower5min,450.0,0.0,450.0,45.0,90.0
+Hydro-Electric Corporation,Gordon Power Station,TAS1,GORDON,Lower60sec,614.0,0.0,467.0,64.0,90.0
+Hydro-Electric Corporation,Gordon Power Station,TAS1,GORDON,Lower6sec,171.0,0.0,538.0,61.0,90.0
+Hydro-Electric Corporation,Gordon Power Station,TAS1,GORDON,Lowerreg,450.0,0.0,450.0,45.0,90.0
+Hydro-Electric Corporation,Gordon Power Station,TAS1,GORDON,Raise5min,450.0,0.0,450.0,90.0,45.0
+Hydro-Electric Corporation,Gordon Power Station,TAS1,GORDON,Raise60sec,600.0,0.0,465.0,90.0,61.0
+Hydro-Electric Corporation,Gordon Power Station,TAS1,GORDON,Raise6sec,144.0,0.0,471.0,90.0,43.0
+Hydro-Electric Corporation,Gordon Power Station,TAS1,GORDON,Raisereg,450.0,0.0,450.0,90.0,45.0
+Hydro-Electric Corporation,John Butters Power Station,TAS1,JBUTTERS,Lower5min,144.0,0.0,144.0,45.0,90.0
+Hydro-Electric Corporation,John Butters Power Station,TAS1,JBUTTERS,Lower60sec,158.0,0.0,144.0,64.0,90.0
+Hydro-Electric Corporation,John Butters Power Station,TAS1,JBUTTERS,Lower6sec,35.0,0.0,144.0,62.0,45.0
+Hydro-Electric Corporation,John Butters Power Station,TAS1,JBUTTERS,Lowerreg,144.0,0.0,144.0,45.0,90.0
+Hydro-Electric Corporation,John Butters Power Station,TAS1,JBUTTERS,Raise5min,144.0,0.0,144.0,90.0,45.0
+Hydro-Electric Corporation,John Butters Power Station,TAS1,JBUTTERS,Raise60sec,158.0,0.0,144.0,90.0,61.0
+Hydro-Electric Corporation,John Butters Power Station,TAS1,JBUTTERS,Raise6sec,39.0,0.0,144.0,81.0,27.0
+Hydro-Electric Corporation,John Butters Power Station,TAS1,JBUTTERS,Raisereg,144.0,0.0,144.0,90.0,45.0
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,LEM_WIL,Lower5min,72.0,0.0,86.0,45.0,90.0
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,LEM_WIL,Lower60sec,28.0,0.0,87.0,63.0,83.0
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,LEM_WIL,Lower6sec,24.0,7.0,86.0,23.0,90.0
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,LEM_WIL,Lowerreg,82.0,0.0,86.0,45.0,90.0
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,LEM_WIL,Raise5min,72.0,0.0,86.0,90.0,45.0
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,LEM_WIL,Raise60sec,11.0,0.0,87.0,90.0,53.0
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,LEM_WIL,Raise6sec,2.0,0.0,86.0,23.0,6.0
+Hydro-Electric Corporation,Lemonthyme / Wilmot Power Station,TAS1,LEM_WIL,Raisereg,82.0,0.0,86.0,90.0,45.0
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,MACKNTSH,Lower5min,89.0,0.0,89.0,45.0,90.0
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,MACKNTSH,Lower60sec,50.0,0.0,90.0,50.0,81.0
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,MACKNTSH,Lower6sec,5.0,0.0,90.0,30.0,12.0
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,MACKNTSH,Lowerreg,89.0,0.0,89.0,45.0,90.0
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,MACKNTSH,Raise5min,89.0,0.0,89.0,90.0,45.0
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,MACKNTSH,Raise60sec,50.0,0.0,89.0,77.0,54.0
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,MACKNTSH,Raise6sec,5.0,0.0,88.0,46.0,10.0
+Hydro-Electric Corporation,Mackintosh Power Station,TAS1,MACKNTSH,Raisereg,89.0,0.0,89.0,90.0,45.0
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,MEADOWBK,Lower5min,40.0,0.0,42.0,45.0,90.0
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,MEADOWBK,Lower60sec,41.0,0.0,42.0,64.0,89.0
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,MEADOWBK,Lower6sec,5.0,0.0,42.0,69.0,84.0
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,MEADOWBK,Lowerreg,40.0,0.0,42.0,45.0,90.0
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,MEADOWBK,Raise5min,40.0,0.0,42.0,90.0,45.0
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,MEADOWBK,Raise60sec,39.0,0.0,42.0,90.0,61.0
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,MEADOWBK,Raise6sec,13.0,0.0,44.0,90.0,32.0
+Hydro-Electric Corporation,Meadowbank Power Station,TAS1,MEADOWBK,Raisereg,40.0,0.0,42.0,90.0,45.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT110,Lower5min,80.0,0.0,124.0,45.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT110,Lower60sec,130.0,0.0,124.0,64.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT110,Lower6sec,63.0,0.0,124.0,57.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT110,Lowerreg,100.0,0.0,124.0,45.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT110,Raise5min,80.0,0.0,124.0,90.0,45.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT110,Raise60sec,35.0,0.0,124.0,90.0,64.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT110,Raise6sec,10.0,0.0,124.0,90.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT110,Raisereg,100.0,0.0,124.0,90.0,45.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT220,Lower5min,160.0,0.0,248.0,45.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT220,Lower60sec,288.0,0.0,248.0,64.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT220,Lower6sec,124.0,0.0,248.0,57.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT220,Lowerreg,200.0,0.0,248.0,45.0,90.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT220,Raise5min,160.0,0.0,248.0,90.0,45.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT220,Raise60sec,95.0,0.0,248.0,90.0,56.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT220,Raise6sec,4.0,0.0,158.0,90.0,16.0
+Hydro-Electric Corporation,Poatina Power Station,TAS1,POAT220,Raisereg,200.0,0.0,248.0,90.0,45.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE1,Lower5min,119.0,0.0,119.0,45.0,90.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE1,Lower60sec,90.0,0.0,120.0,58.0,76.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE1,Lower6sec,21.0,0.0,119.0,34.0,16.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE1,Lowerreg,119.0,0.0,119.0,45.0,90.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE1,Raise5min,119.0,0.0,119.0,90.0,45.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE1,Raise60sec,75.0,0.0,117.0,90.0,59.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE1,Raise6sec,21.0,0.0,118.0,46.0,13.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE1,Raisereg,119.0,0.0,119.0,90.0,45.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE2,Lower5min,119.0,0.0,119.0,45.0,90.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE2,Lower60sec,126.0,0.0,119.0,60.0,90.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE2,Lower6sec,31.0,0.0,148.0,58.0,18.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE2,Lowerreg,119.0,0.0,119.0,45.0,90.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE2,Raise5min,119.0,0.0,119.0,90.0,45.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE2,Raise60sec,108.0,0.0,119.0,90.0,63.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE2,Raise6sec,31.0,0.0,119.0,90.0,15.0
+Hydro-Electric Corporation,Reece Power Station,TAS1,REECE2,Raisereg,119.0,0.0,119.0,90.0,45.0
+Hydro-Electric Corporation,Tarraleah Power Station,TAS1,TARRALEA,Lower6sec,25.0,0.0,90.0,30.0,90.0
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,TREVALLN,Lower5min,101.0,0.0,101.0,45.0,90.0
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,TREVALLN,Lower60sec,31.0,0.0,103.0,64.0,54.0
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,TREVALLN,Lower6sec,14.0,0.0,93.0,32.0,33.0
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,TREVALLN,Lowerreg,101.0,0.0,101.0,45.0,90.0
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,TREVALLN,Raise5min,101.0,0.0,101.0,90.0,45.0
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,TREVALLN,Raise60sec,29.0,0.0,103.0,83.0,41.0
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,TREVALLN,Raise6sec,13.0,0.0,91.0,90.0,28.0
+Hydro-Electric Corporation,Trevallyn Power Station,TAS1,TREVALLN,Raisereg,101.0,0.0,101.0,90.0,45.0
+Hydro-Electric Corporation,Tribute Power Station,TAS1,TRIBUTE,Lower5min,84.0,0.0,84.0,45.0,90.0
+Hydro-Electric Corporation,Tribute Power Station,TAS1,TRIBUTE,Lower60sec,80.0,0.0,92.0,61.0,81.0
+Hydro-Electric Corporation,Tribute Power Station,TAS1,TRIBUTE,Lower6sec,11.0,0.0,92.0,40.0,16.0
+Hydro-Electric Corporation,Tribute Power Station,TAS1,TRIBUTE,Lowerreg,84.0,0.0,84.0,45.0,90.0
+Hydro-Electric Corporation,Tribute Power Station,TAS1,TRIBUTE,Raise5min,84.0,0.0,84.0,90.0,45.0
+Hydro-Electric Corporation,Tribute Power Station,TAS1,TRIBUTE,Raise60sec,73.0,0.0,93.0,90.0,58.0
+Hydro-Electric Corporation,Tribute Power Station,TAS1,TRIBUTE,Raise6sec,10.0,0.0,92.0,78.0,14.0
+Hydro-Electric Corporation,Tribute Power Station,TAS1,TRIBUTE,Raisereg,84.0,0.0,84.0,90.0,45.0
+Hydro-Electric Corporation,Tungatinah Power Station,TAS1,TUNGATIN,Lower5min,140.0,0.0,140.0,45.0,90.0
+Hydro-Electric Corporation,Tungatinah Power Station,TAS1,TUNGATIN,Lower60sec,150.0,0.0,140.0,59.0,90.0
+Hydro-Electric Corporation,Tungatinah Power Station,TAS1,TUNGATIN,Lower6sec,20.0,0.0,140.0,57.0,66.0
+Hydro-Electric Corporation,Tungatinah Power Station,TAS1,TUNGATIN,Lowerreg,140.0,0.0,140.0,45.0,90.0
+Hydro-Electric Corporation,Tungatinah Power Station,TAS1,TUNGATIN,Raise5min,140.0,0.0,140.0,90.0,45.0
+Hydro-Electric Corporation,Tungatinah Power Station,TAS1,TUNGATIN,Raise60sec,150.0,0.0,145.0,90.0,61.0
+Hydro-Electric Corporation,Tungatinah Power Station,TAS1,TUNGATIN,Raise6sec,35.0,0.0,145.0,90.0,29.0
+Hydro-Electric Corporation,HydroTas MASP TAS,TAS1,ASTHYD1,Raise6sec,105.0,0.0,0.0,90.0,90.0
+Hydro-Electric Corporation,Tamar Valley Combined Cycle Power Station,TAS1,TVCC201,Lower5min,100.0,35.0,209.0,41.0,90.0
+Hydro-Electric Corporation,Tamar Valley Combined Cycle Power Station,TAS1,TVCC201,Lower60sec,210.0,35.0,209.0,50.0,90.0
+Hydro-Electric Corporation,Tamar Valley Combined Cycle Power Station,TAS1,TVCC201,Lower6sec,26.0,35.0,209.0,13.0,90.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBG1,Lowerreg,25.0,0.0,25.0,45.0,90.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBG1,Raise5min,10.0,0.0,25.0,90.0,45.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBG1,Raise60sec,4.0,0.0,25.0,90.0,22.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBG1,Raise6sec,15.0,0.0,25.0,90.0,56.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBG1,Raisereg,25.0,0.0,25.0,90.0,45.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBL1,Lowerreg,25.0,0.0,25.0,90.0,45.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBL1,Lower5min,10.0,0.0,25.0,90.0,45.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBL1,Lower60sec,4.0,0.0,25.0,90.0,22.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBL1,Lower6sec,15.0,0.0,25.0,90.0,56.0
+Lake Bonney Wind Power Pty Ltd,Lake Bonney BESS1,SA1,LBBL1,Raisereg,25.0,0.0,25.0,45.0,90.0
+Millmerran Energy Trader Pty Ltd,Millmerran Power Plant,QLD1,MPP_1,Lowerreg,25.0,350.0,435.0,45.0,90.0
+Millmerran Energy Trader Pty Ltd,Millmerran Power Plant,QLD1,MPP_1,Raisereg,25.0,350.0,435.0,90.0,45.0
+Millmerran Energy Trader Pty Ltd,Millmerran Power Plant,QLD1,MPP_2,Lowerreg,25.0,350.0,435.0,45.0,90.0
+Millmerran Energy Trader Pty Ltd,Millmerran Power Plant,QLD1,MPP_2,Raisereg,25.0,350.0,435.0,90.0,45.0
+Origin Energy Electricity Limited,Darling Downs Power Station,QLD1,DDPS1,Lowerreg,50.0,58.0,663.0,45.0,90.0
+Origin Energy Electricity Limited,Darling Downs Power Station,QLD1,DDPS1,Raisereg,50.0,58.0,663.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER01,Lower5min,50.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER01,Lower60sec,83.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER01,Lower6sec,50.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER01,Lowerreg,100.0,150.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER01,Raise5min,50.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER01,Raise60sec,83.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER01,Raise6sec,50.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER01,Raisereg,100.0,150.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER02,Lower5min,50.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER02,Lower60sec,83.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER02,Lower6sec,50.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER02,Lowerreg,100.0,150.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER02,Raise5min,50.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER02,Raise60sec,83.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER02,Raise6sec,50.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER02,Raisereg,100.0,150.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER03,Lower5min,50.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER03,Lower60sec,83.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER03,Lower6sec,50.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER03,Lowerreg,100.0,150.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER03,Raise5min,50.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER03,Raise60sec,83.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER03,Raise6sec,50.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER03,Raisereg,100.0,150.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER04,Lower5min,50.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER04,Lower60sec,83.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER04,Lower6sec,50.0,180.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER04,Lowerreg,100.0,150.0,750.0,45.0,90.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER04,Raise5min,50.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER04,Raise60sec,83.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER04,Raise6sec,50.0,180.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Eraring Power Station,NSW1,ER04,Raisereg,100.0,150.0,750.0,90.0,45.0
+Origin Energy Electricity Limited,Mortlake Power Station,VIC1,MORTLK11,Lowerreg,65.0,20.0,292.0,45.0,90.0
+Origin Energy Electricity Limited,Mortlake Power Station,VIC1,MORTLK11,Raisereg,65.0,20.0,292.0,90.0,45.0
+Origin Energy Electricity Limited,Mortlake Power Station,VIC1,MORTLK12,Lowerreg,65.0,20.0,292.0,45.0,90.0
+Origin Energy Electricity Limited,Mortlake Power Station,VIC1,MORTLK12,Raisereg,65.0,20.0,292.0,90.0,45.0
+Origin Energy Electricity Limited,Mt Stuart Power Station,QLD1,MSTUART1,Lowerreg,42.0,43.0,144.0,45.0,90.0
+Origin Energy Electricity Limited,Mt Stuart Power Station,QLD1,MSTUART1,Raisereg,42.0,43.0,144.0,90.0,45.0
+Origin Energy Electricity Limited,Mt Stuart Power Station,QLD1,MSTUART2,Lowerreg,42.0,43.0,144.0,45.0,90.0
+Origin Energy Electricity Limited,Mt Stuart Power Station,QLD1,MSTUART2,Raisereg,42.0,43.0,144.0,90.0,45.0
+Origin Energy Electricity Limited,Osborne Power Station,SA1,OSB-AG,Lower5min,3.0,145.0,196.0,20.0,90.0
+Origin Energy Electricity Limited,Osborne Power Station,SA1,OSB-AG,Lower60sec,14.0,145.0,196.0,30.0,90.0
+Origin Energy Electricity Limited,Osborne Power Station,SA1,OSB-AG,Lower6sec,14.0,145.0,196.0,30.0,90.0
+Origin Energy Electricity Limited,Osborne Power Station,SA1,OSB-AG,Lowerreg,36.0,145.0,196.0,35.0,90.0
+Origin Energy Electricity Limited,Osborne Power Station,SA1,OSB-AG,Raise5min,3.0,145.0,196.0,90.0,20.0
+Origin Energy Electricity Limited,Osborne Power Station,SA1,OSB-AG,Raise60sec,14.0,145.0,196.0,90.0,30.0
+Origin Energy Electricity Limited,Osborne Power Station,SA1,OSB-AG,Raise6sec,14.0,145.0,196.0,90.0,30.0
+Origin Energy Electricity Limited,Osborne Power Station,SA1,OSB-AG,Raisereg,36.0,145.0,196.0,90.0,35.0
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,QPS5,Lowerreg,50.0,74.0,128.0,45.0,90.0
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,QPS5,Raisereg,50.0,74.0,128.0,90.0,45.0
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,QPS5,Lower6sec,16.0,74.0,128.0,45.0,90.0
+Origin Energy Electricity Limited,Quarantine Power Station,SA1,QPS5,Raise6sec,11.0,74.0,128.0,90.0,45.0
+Pelican Point Power Limited,Pelican Point Power Station,SA1,PPCCGT,Lower60sec,30.0,140.0,510.0,45.0,90.0
+Pelican Point Power Limited,Pelican Point Power Station,SA1,PPCCGT,Lower6sec,35.0,140.0,500.0,45.0,90.0
+Pelican Point Power Limited,Pelican Point Power Station,SA1,PPCCGT,Lowerreg,100.0,140.0,510.0,45.0,90.0
+Pelican Point Power Limited,Pelican Point Power Station,SA1,PPCCGT,Lower5min,30.0,187.0,529.0,45.0,90.0
+Pelican Point Power Limited,Pelican Point Power Station,SA1,PPCCGT,Raise60sec,30.0,140.0,510.0,90.0,45.0
+Pelican Point Power Limited,Pelican Point Power Station,SA1,PPCCGT,Raise6sec,35.0,140.0,500.0,90.0,45.0
+Pelican Point Power Limited,Pelican Point Power Station,SA1,PPCCGT,Raisereg,100.0,140.0,510.0,90.0,45.0
+Pelican Point Power Limited,Pelican Point Power Station,SA1,PPCCGT,Raise5min,30.0,187.0,529.0,90.0,45.0
+Snowy Hydro Limited,Guthega Power Station,NSW1,GUTHEGA,Lower5min,30.0,0.0,65.0,45.0,90.0
+Snowy Hydro Limited,Guthega Power Station,NSW1,GUTHEGA,Lower60sec,10.0,0.0,65.0,45.0,90.0
+Snowy Hydro Limited,Guthega Power Station,NSW1,GUTHEGA,Lowerreg,30.0,0.0,65.0,45.0,90.0
+Snowy Hydro Limited,Guthega Power Station,NSW1,GUTHEGA,Raise5min,30.0,0.0,65.0,90.0,45.0
+Snowy Hydro Limited,Guthega Power Station,NSW1,GUTHEGA,Raise60sec,10.0,0.0,65.0,90.0,45.0
+Snowy Hydro Limited,Guthega Power Station,NSW1,GUTHEGA,Raisereg,30.0,0.0,65.0,90.0,45.0
+Snowy Hydro Limited,Jindabyne Pump At Guthega,VIC1,SNOWYGJP,Raise5min,70.0,0.0,0.0,90.0,90.0
+Snowy Hydro Limited,Jindabyne Pump At Guthega,VIC1,SNOWYGJP,Raise60sec,140.0,0.0,0.0,90.0,90.0
+Snowy Hydro Limited,Jindabyne Pump At Guthega,VIC1,SNOWYGJP,Raise6sec,93.0,0.0,0.0,90.0,90.0
+Snowy Hydro Limited,Lonsdale Power Station,SA1,LONSDALE,Lowerreg,21.0,5.0,21.0,45.0,90.0
+Snowy Hydro Limited,Lonsdale Power Station,SA1,LONSDALE,Raisereg,21.0,5.0,21.0,90.0,45.0
+Snowy Hydro Limited,Murray Power Station,VIC1,MURRAY,Lower5min,500.0,0.0,1510.0,45.0,90.0
+Snowy Hydro Limited,Murray Power Station,VIC1,MURRAY,Lower60sec,500.0,0.0,1510.0,45.0,90.0
+Snowy Hydro Limited,Murray Power Station,VIC1,MURRAY,Lower6sec,40.0,0.0,1510.0,45.0,90.0
+Snowy Hydro Limited,Murray Power Station,VIC1,MURRAY,Lowerreg,500.0,0.0,1510.0,45.0,90.0
+Snowy Hydro Limited,Murray Power Station,VIC1,MURRAY,Raise5min,500.0,0.0,1510.0,90.0,45.0
+Snowy Hydro Limited,Murray Power Station,VIC1,MURRAY,Raise60sec,250.0,0.0,1510.0,90.0,45.0
+Snowy Hydro Limited,Murray Power Station,VIC1,MURRAY,Raise6sec,40.0,0.0,1510.0,90.0,45.0
+Snowy Hydro Limited,Murray Power Station,VIC1,MURRAY,Raisereg,500.0,0.0,1510.0,90.0,45.0
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,TUMUT3,Lower5min,500.0,0.0,1500.0,45.0,90.0
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,TUMUT3,Lower60sec,500.0,0.0,1500.0,45.0,90.0
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,TUMUT3,Lower6sec,40.0,0.0,1500.0,45.0,90.0
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,TUMUT3,Lowerreg,500.0,0.0,1500.0,45.0,90.0
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,TUMUT3,Raise5min,500.0,0.0,1500.0,90.0,45.0
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,TUMUT3,Raise60sec,250.0,0.0,1500.0,90.0,45.0
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,TUMUT3,Raise6sec,40.0,0.0,1500.0,90.0,45.0
+Snowy Hydro Limited,Tumut 3 Power Station,NSW1,TUMUT3,Raisereg,500.0,0.0,1500.0,90.0,45.0
+Snowy Hydro Limited,Tumut 3 Pumps,NSW1,SNOWYP,Lower5min,200.0,0.0,600.0,90.0,45.0
+Snowy Hydro Limited,Tumut 3 Pumps,NSW1,SNOWYP,Raise5min,600.0,0.0,1200.0,53.0,90.0
+Snowy Hydro Limited,Tumut 3 Pumps,NSW1,SNOWYP,Raise60sec,1200.0,0.0,1200.0,53.0,90.0
+Snowy Hydro Limited,Tumut 3 Pumps,NSW1,SNOWYP,Raise6sec,800.0,0.0,1200.0,53.0,90.0
+Snowy Hydro Limited,Tumut Power Station,NSW1,UPPTUMUT,Lower5min,250.0,0.0,665.0,45.0,90.0
+Snowy Hydro Limited,Tumut Power Station,NSW1,UPPTUMUT,Lower60sec,250.0,0.0,665.0,45.0,90.0
+Snowy Hydro Limited,Tumut Power Station,NSW1,UPPTUMUT,Lower6sec,20.0,0.0,665.0,45.0,90.0
+Snowy Hydro Limited,Tumut Power Station,NSW1,UPPTUMUT,Lowerreg,250.0,0.0,665.0,45.0,90.0
+Snowy Hydro Limited,Tumut Power Station,NSW1,UPPTUMUT,Raise5min,250.0,0.0,665.0,90.0,45.0
+Snowy Hydro Limited,Tumut Power Station,NSW1,UPPTUMUT,Raise60sec,125.0,0.0,665.0,90.0,45.0
+Snowy Hydro Limited,Tumut Power Station,NSW1,UPPTUMUT,Raise6sec,20.0,0.0,665.0,90.0,45.0
+Snowy Hydro Limited,Tumut Power Station,NSW1,UPPTUMUT,Raisereg,250.0,0.0,665.0,90.0,45.0
+Stanwell Corporation Limited,Mackay Gas Turbine,QLD1,MACKAYGT,Raise5min,34.0,0.0,34.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-1,Lower5min,350.0,0.0,350.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-1,Lower60sec,70.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-1,Lower6sec,70.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-1,Lowerreg,30.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-1,Raise60sec,70.0,0.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-1,Raise6sec,70.0,0.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-1,Raisereg,30.0,0.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-2,Lower5min,350.0,0.0,350.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-2,Lower60sec,70.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-2,Lower6sec,70.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-2,Lowerreg,30.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-2,Raise60sec,70.0,0.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-2,Raise6sec,70.0,0.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-2,Raisereg,30.0,0.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-3,Lower5min,350.0,0.0,350.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-3,Lower60sec,70.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-3,Lower6sec,70.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-3,Lowerreg,30.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-3,Raise60sec,70.0,0.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-3,Raise6sec,70.0,0.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-3,Raisereg,30.0,0.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-4,Lower5min,350.0,0.0,350.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-4,Lower60sec,70.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-4,Lower6sec,70.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-4,Lowerreg,30.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-4,Raise60sec,70.0,0.0,350.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-4,Raise6sec,70.0,0.0,350.0,90.0,45.0
+Stanwell Corporation Limited,Stanwell Power Station,QLD1,STAN-4,Raisereg,30.0,0.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#1,Lower5min,385.0,0.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#1,Lower60sec,35.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#1,Lower6sec,20.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#1,Lowerreg,25.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#1,Raise5min,20.0,140.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#1,Raise60sec,35.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#1,Raise6sec,20.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#1,Raisereg,18.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#2,Lower5min,385.0,0.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#2,Lower60sec,35.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#2,Lower6sec,20.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#2,Lowerreg,25.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#2,Raise5min,20.0,140.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#2,Raise60sec,35.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#2,Raise6sec,20.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#2,Raisereg,18.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#3,Lower5min,385.0,0.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#3,Lower60sec,35.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#3,Lower6sec,20.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#3,Lowerreg,25.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#3,Raise5min,20.0,140.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#3,Raise60sec,35.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#3,Raise6sec,20.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#3,Raisereg,18.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#4,Lower5min,385.0,0.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#4,Lower60sec,35.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#4,Lower6sec,20.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#4,Lowerreg,25.0,140.0,385.0,45.0,90.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#4,Raise5min,20.0,140.0,360.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#4,Raise60sec,35.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#4,Raise6sec,20.0,140.0,385.0,90.0,45.0
+Stanwell Corporation Limited,Tarong Power Station,QLD1,TARONG#4,Raisereg,18.0,140.0,385.0,90.0,45.0
+,,,,,,,,,
+Key to Abbreviations appearing in the above Table,,,,,,,,,
+DUID: Dispatchable Unit ID,,,,,,,,,
+Max Cap: Maximum Capacity,,,,,,,,,
+Min Enablement Level: Minumum Enablement Level,,,,,,,,,
+Max Enablement Level: Max Enablement Level,,,,,,,,,
+Max Lower Angle: Maximum Lower Angle,,,,,,,,,
+Max Upper Angle: Maximum Upper Angle,,,,,,,,,

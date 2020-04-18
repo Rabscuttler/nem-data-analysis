@@ -77,10 +77,7 @@ target/
 
 # exclude data downloaded through NEMOSIS or processed
 # external contains mappings and data unavailable through NEMOSIS
-/data/raw
 /data/interim
-/data/processed
-/NEM-data/
 
 # Mac OS-specific storage files
 .DS_Store
