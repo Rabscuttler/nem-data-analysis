@@ -1,0 +1,63 @@
+% Auriga theme
+% find the most up-to-date version here: https://github.com/anishathalye/auriga
+
+\documentclass[14pt,aspectratio=169]{beamer}
+\usepackage{pgfpages}
+\usepackage{fancyvrb}
+\usepackage{graphicx}
+\usepackage[
+backend=biber,
+style=alphabetic,
+citestyle=authoryear
+]{biblatex}
+
+\addbibresource{references.bib} %Imports bibliography file
+
+%\ifnotes
+%\setbeamertemplate{note page}[plain]
+%\setbeameroption{show notes on second screen=right}
+%\fi
+
+\usetheme{auriga}
+\usecolortheme{auriga}
+
+% define graphics path
+\graphicspath{{./figures/}}
+
+% define some colors for a consistent theme across slides
+\definecolor{red}{RGB}{181, 23, 0}
+\definecolor{blue}{RGB}{0, 118, 186}
+\definecolor{gray}{RGB}{146, 146, 146}
+
+\title{PFR of Dispatched Generation on 25/08/2018}
+
+\author{Excludes generation enabled for assisting FCAS}
+
+%\author{\underline{Alyssa P. Hacker} \inst{1} \and Ben Bitdiddle \inst{2} \and Lem E. Tweakit \inst{2}}
+
+%\institute[shortinst]{\inst{1} Some Institute \samelineand \inst{2} %Another Institute}
+
+\begin{document}
+
+{
+  % rather than use the frame options [noframenumbering,plain], we make the
+  % color match, so that the indicated page numbers match PDF page numbers
+  \setbeamercolor{page number in head/foot}{fg=background canvas.bg}
+  \begin{frame}
+    \titlepage
+  \end{frame}
+}
+
+\input{slides/slide01}
+\input{slides/slide02}
+\input{slides/slide03}
+\input{slides/slide04}
+\input{slides/slide05}
+\input{slides/slide06}
+\input{slides/slide07}
+\input{slides/slide08}
+\input{slides/slide09}
+\input{slides/slide10}
+\input{slides/slide11}
+\input{slides/slide12}
+\end{document}
