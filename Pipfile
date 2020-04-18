@@ -17,8 +17,10 @@ nbresuse = "*"
 jupyterlab = "==1.2"
 # docs
 sphinx = "*"
- # easy envs
+# easy envs
  pipenv-setup = "*"
+# io and compression
+python-snappy = "*"
 
 [packages]
 # numerical and data
@@ -35,7 +37,6 @@ ipympl = "*"
 ipywidgets = "*"
 # io and compression
 fastparquet = "*"
-python-snappy = "*"
 # feedback and usability
 tqdm = "*"
 argparse = "*"
