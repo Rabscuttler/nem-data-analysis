@@ -75,11 +75,12 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data from source control by default
-/data/
+# exclude data downloaded through NEMOSIS or processed
+# external contains mappings and data unavailable through NEMOSIS
+/data/raw
+/data/interim
+/data/processed
 /NEM-data/
-# include mapping files and third party data unavailable via NEMOSIS
-!/data/external/
 
 # Mac OS-specific storage files
 .DS_Store
@@ -90,3 +91,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# empty folder
+.gitkeep
