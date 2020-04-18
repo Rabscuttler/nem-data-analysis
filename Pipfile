@@ -17,6 +17,8 @@ nbresuse = "*"
 jupyterlab = "==1.2"
 # docs
 sphinx = "*"
+ # easy envs
+ pipenv-setup = "*"
 
 [packages]
 # numerical and data
