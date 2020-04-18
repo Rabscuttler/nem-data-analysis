@@ -1,15 +1,16 @@
-# NEM Analysis
+NEM Analysis
 ==============================
 
 Holds code, mapping files, data and analysis of various aspects of Australia's National Eletricity Market.
 
 
-## Binder
+Binder
+------------
 Use Binder to run notebooks in an interactive environment
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prakaa/nem-data-analysis/master)
 
 
-## Project Organization
+Project Organization
 ------------
 
     ├── LICENSE
