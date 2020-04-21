@@ -64,4 +64,4 @@ def merge_causpays_mappings(df, elements, variables,
         df = _pd.merge(left=df, right=gen_loads, how='left',
                        on='DUID')
 
-        return df
+    return df
