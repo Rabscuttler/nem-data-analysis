@@ -24,6 +24,7 @@ sphinx = "*"
 # numerical and data
 numpy = "*"
 pandas = "*"
+"dask[complete]" = "*"
 # plotting
 jupyterthemes = "*"
 matplotlib = "*"
