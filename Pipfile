@@ -42,6 +42,3 @@ argparse = "*"
 # project specific dependencies
 nemosis = {editable = true,path = "./NEMOSIS"}
 src = {editable=true,path = "./source_code"}
-
-[requires]
-python_version = "3.6"
