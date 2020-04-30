@@ -60,10 +60,18 @@ def walk_dirs_for_files(path, fformat):
 
 
 def read_dataframes(fformat, path):
+    original_cols = ['TIMESTAMP', 'ELEMENTNUMBER', 'VARIABLENUMBER',
+                     'VALUE', 'VALUEQUALITY']
     cols = ['datetime', 'elementnumber', 'variablenumber',
             'fcas_value', 'valuequality']
     if fformat == 'csv':
-        df = pd.read_csv(path, header=None)
+        df = pd.read_csv(path)
+        verfied_cols = df.columns[df.columns.isin(original_cols)]
+        df = df[verfied_cols]
+        if len(verfied_cols) == 0:
+            df = pd.read_csv(path, header=None)
+        elif len(verfied_cols) < len(original_cols):
+            raise ValueError("Causer Pays data missing some columns")
     elif fformat == 'parquet':
         df = pd.read_parquet(path)
     df.columns = cols
