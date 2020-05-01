@@ -1,4 +1,4 @@
-.PHONY: clean data lint requirements create_conda_env, create_pipenv_env
+.PHONY: clean data lint requirements create_conda_env, create_pipenv_env setup_jupyter_lab
 
 #################################################################################
 # GLOBALS                                                                       #
@@ -56,6 +56,25 @@ create_pipenv_env: requirements
 	@echo ">>> Installing Pipenv using requirements.txt, then installing dependencies from Pipfile.lock"
 	pipenv sync
 	@echo ">>> New pipenv created. Run environment in shell fron this folder using:\npipenv shell"
+
+## Set up jupyter-lab extensions
+setup_jupyter_lab:
+	# Avoid "JavaScript heap out of memory" errors during extension installation
+	# (OS X/Linux)
+	export NODE_OPTIONS=--max-old-space-size=4096
+
+	# Jupyter widgets extension
+	jupyter labextension install @jupyter-widgets/jupyterlab-manager@1.1 --no-build
+	# FigureWidget support
+	jupyter labextension install plotlywidget@4.6.0 --no-build
+	# and jupyterlab renderer support
+	jupyter labextension install jupyterlab-plotly@4.6.0 --no-build
+	# Matplotlib
+	jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib --no-build
+	# Build extensions (must be done to activate extensions since --no-build is used above)
+	jupyter lab build
+	unset NODE_OPTIONS
+
 
 ## Test python version
 test_python:
