@@ -75,7 +75,7 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# exclude data downloaded through NEMOSIS or processed
+# data downloaded through NEMOSIS or processed kept in nemweb data 
 # external contains mappings and data unavailable through NEMOSIS
 /data/interim
 
