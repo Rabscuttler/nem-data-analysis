@@ -36,6 +36,7 @@ ipympl = "*"
 ipywidgets = "*"
 # io and compression
 fastparquet = "*"
+python-snappy = "*"
 # feedback and usability
 tqdm = "*"
 argparse = "*"

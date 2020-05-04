@@ -53,6 +53,8 @@ endif
 
 ## Set up python interpreter environment using Pipenv
 create_pipenv_env: requirements
+	@echo ">>> Installing snappy for parquet libraries"
+	sudo apt install libsnappy-dev
 	@echo ">>> Installing Pipenv using requirements.txt, then installing dependencies from Pipfile.lock"
 	pipenv sync
 	@echo ">>> New pipenv created. Run environment in shell fron this folder using:\npipenv shell"
