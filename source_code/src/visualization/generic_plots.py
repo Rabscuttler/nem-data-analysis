@@ -161,3 +161,49 @@ def nofb_plot(nofb_function, axis, lw=1.0, alpha=1.0, style='y--'):
     axis.plot(lower, style, linewidth=lw, alpha=alpha)
 
     return axis
+
+
+def stacked_bar_subplots(df, figsize, cmap,
+                         xaxis_col, values_col,
+                         subplots_list, subplot_col,
+                         stacked_list, stacked_col,
+                         label_add, ax_title_add):
+    '''
+    Plot stacked bar charts across a range of subplots
+
+    Args:
+        df (pd.DataFrame): DataFrame to plot, with releveant *_cols
+        figsize (tuple): size in inches for figure
+        cmap (plt.cmap): object to determine color palette for stacked elements
+        xaxis_col (str): name of col in df to use as xticks
+        values_col (str): name of col in df to plot values
+        subplots_list (list): list to use as basis for separating subplots
+        subplot_col (str); name of col in df to separate data for each subplot
+        stacked_list (list): list of elements to stack in each subplot
+        stacked_col (str): name of col in df to obtain series to stack
+        label_add (str): generic str to add to the end of each stacked el label
+        ax_title_add (str): generic str to add to end of ax title
+    Returns:
+        Fig, Ax
+    '''
+
+    fig, ax = _plt.subplots(len(subplots_list), 1,
+                            figsize=figsize, sharex=True)
+    x_labels = df[xaxis_col].drop_duplicates().tolist()
+    x_tix = _np.arange(len(x_labels))
+
+    colormap = _plt.get_cmap(cmap)
+    colors = colormap(_np.linspace(0, 1, len(stacked_list)))
+    plot_colors = {el: colors[i] for i, el in enumerate(stacked_list)}
+
+    for i, subplot_el in enumerate(subplots_list):
+        y_base = _np.zeros_like(x_tix)
+        subplot_df = df.query(f'{subplot_col}==@subplot_el')
+        for el in stacked_list:
+            rev = subplot_df.query(f'{stacked_col}==@el')
+            ax[i].bar(x_tix, rev[values_col], bottom=y_base,
+                      color=plot_colors[el],
+                      label=f'{el} {label_add}')
+            y_base = _np.add(y_base, rev[values_col].tolist())
+        ax[i].set_title(f'{subplot_el} {ax_title_add}')
+    return fig, ax
