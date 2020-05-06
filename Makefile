@@ -71,6 +71,8 @@ setup_jupyter_lab:
 	jupyter labextension install plotlywidget@4.6.0 --no-build
 	# and jupyterlab renderer support
 	jupyter labextension install jupyterlab-plotly@4.6.0 --no-build
+	#variable inspector
+	jupyter labextension install @lckr/jupyterlab_variableinspector --no-build
 	# Matplotlib
 	jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib --no-build
 	# Build extensions (must be done to activate extensions since --no-build is used above)
