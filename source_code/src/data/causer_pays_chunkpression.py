@@ -3,11 +3,15 @@ import logging
 import os
 import tqdm
 
+import numpy as np
 import pandas as pd
+
+from sys import getsizeof
 
 
 def arg_parser():
-    description = ("Merge FCAS data in directories to parquet chunks")
+    description = ("Merge FCAS data in directories to parquet chunks.\n"
+                   + "Indexed on sorted datetime column to improve Dask speed")
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument('-path', type=str, required=True,
                         help='recursive search for files with format in path')
@@ -22,20 +26,27 @@ def arg_parser():
 
 def pathfiles_to_chunks(path, fformat, mem_limit):
     read_files = walk_dirs_for_files(path, fformat)
+    concat_list = []
     concat_df = pd.DataFrame()
     i = 0
+    mem = 0
     for file in tqdm.tqdm(read_files, desc='Reading file:'):
         df = read_dataframes(fformat, file)
-        mem = concat_df.memory_usage().sum() / 1e6
+        concat_list.append(df)
+        df_mem = getsizeof(df)
+        mem += df_mem / 1e6
         if mem < mem_limit:
-            concat_df = pd.concat([concat_df, df])
             logging.info(f'Memory: {mem}')
         elif mem >= mem_limit:
+            concat_df = pd.concat(concat_list)
+            concat_df = concat_df.sort_index()
             chunk_name = path + os.sep + f'chunk{i}.parquet'
             concat_df.to_parquet(chunk_name)
             logging.info(f'Writing chunk {chunk_name}')
             i += 1
+            concat_list = []
             concat_df = pd.DataFrame()
+            mem = 0
 
     final_mem = concat_df.memory_usage().sum() / 1e6
     if final_mem > 0:
@@ -56,7 +67,7 @@ def walk_dirs_for_files(path, fformat):
         logging.error(' Check path and format. No files to read')
         raise argparse.ArgumentError()
     else:
-        return read_files
+        return sorted(read_files)
 
 
 def read_dataframes(fformat, path):
@@ -75,6 +86,8 @@ def read_dataframes(fformat, path):
     elif fformat == 'parquet':
         df = pd.read_parquet(path)
     df.columns = cols
+    df['datetime'] = df['datetime'].astype(np.datetime64)
+    df = df.set_index('datetime')
     return df
 
 
