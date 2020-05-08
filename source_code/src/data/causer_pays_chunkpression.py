@@ -48,8 +48,8 @@ def pathfiles_to_chunks(path, fformat, mem_limit):
             concat_df = pd.DataFrame()
             mem = 0
 
-    final_mem = concat_df.memory_usage().sum() / 1e6
-    if final_mem > 0:
+    final_len = len(concat_list)
+    if final_len > 0:
         chunk_name = path + os.sep + f'chunk{i}.parquet'
         concat_df.to_parquet(chunk_name)
         logging.info(f'Writing chunk {chunk_name}')
