@@ -24,6 +24,14 @@ def arg_parser():
     return args
 
 
+def write_parquet(df_list, path, i):
+    concat_df = pd.concat(df_list)
+    concat_df = concat_df.sort_index()
+    chunk_name = path + os.sep + f'chunk{i}.parquet'
+    concat_df.to_parquet(chunk_name)
+    return chunk_name
+
+
 def pathfiles_to_chunks(path, fformat, mem_limit):
     read_files = walk_dirs_for_files(path, fformat)
     concat_list = []
@@ -38,10 +46,7 @@ def pathfiles_to_chunks(path, fformat, mem_limit):
         if mem < mem_limit:
             logging.info(f'Memory: {mem}')
         elif mem >= mem_limit:
-            concat_df = pd.concat(concat_list)
-            concat_df = concat_df.sort_index()
-            chunk_name = path + os.sep + f'chunk{i}.parquet'
-            concat_df.to_parquet(chunk_name)
+            chunk_name = write_parquet(concat_list, path, i)
             logging.info(f'Writing chunk {chunk_name}')
             i += 1
             concat_list = []
@@ -50,8 +55,7 @@ def pathfiles_to_chunks(path, fformat, mem_limit):
 
     final_len = len(concat_list)
     if final_len > 0:
-        chunk_name = path + os.sep + f'chunk{i}.parquet'
-        concat_df.to_parquet(chunk_name)
+        chunk_name = write_parquet(concat_list, path, i)
         logging.info(f'Writing chunk {chunk_name}')
 
 
