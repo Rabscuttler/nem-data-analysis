@@ -32,7 +32,7 @@ clean_tech_cap = _nem_p.clean_gen_loads_capacities(df=cleaned_tech,
                                                    table_loc=proc_path,
                                                    outname=gen_loads_outname)
 _logging.info((f'Raw Gen and Load files in {raw_path},'
-               + 'processed in {proc_path}'))
+               + f'processed in {proc_path}'))
 
 # fetch fcas providers then find unique providers
 fcas_providers = _nem_p.fetch_ancillary_service_providers(raw_path,

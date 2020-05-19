@@ -92,7 +92,7 @@ Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,Generator,Market,Schedu
 Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,Generator,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),2,168,Y,BRAEMAR2,168.0,173,43
 Braemar Power Project Pty Ltd,Braemar Power Station,QLD1,Generator,Market,Scheduled,Fossil,Coal Seam Methane,Combustion,Open Cycle Gas turbines (OCGT),3,168,Y,BRAEMAR3,168.0,173,43
 Braemar Power Project Pty Ltd,Rugby Run Solar Farm,QLD1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,PV,1-25,2.6,N,RUGBYR1,83.0,65,17
-Braemar Power Project Pty Ltd ,Collinsville Solar PV Power Station,QLD1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,1-17,2.47,Y,CSPVPS1,42.0,40,8
+Braemar Power Project Pty Ltd ,Collinsville Solar PV Power Station,QLD1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,PV,1-17,2.47,Y,CSPVPS1,42.0,40,8
 Callide Power Trading Pty Limited,Callide C Nett Off,QLD1,Generator,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,3,420,Y,CPP_3,420.0,420,84
 Callide Power Trading Pty Limited,Callide C Nett Off,QLD1,Generator,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,4,420,Y,CPP_4,420.0,420,84
 Canunda Power Pty Ltd,Canunda Wind Farm,SA1,Generator,Market,Non-Scheduled,Wind,Wind,Renewable,Wind,1-23,2,N,CNUNDAWF,46.0,46,
@@ -130,7 +130,7 @@ CS Energy Limited,Gladstone Power Station,QLD1,Generator,Market,Scheduled,Fossil
 CS Energy Limited,Gladstone Power Station,QLD1,Generator,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,6,280,Y,GSTONE6,280.0,285,57
 CS Energy Limited,Kogan Creek Power Station,QLD1,Generator,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Super Critical,1,744,Y,KPP_1,744.0,781,157
 Cullerin Range Wind Farm Pty Ltd,Cullerin Range Wind Farm,NSW1,Generator,Market,Non-Scheduled,Wind,Wind,Renewable,Wind,1-15,2,N,CULLRGWF,30.0,30,
-Darling Downs Solar Farm Pty Ltd ,"Darling Downs Solar Farm, Units 1-44 ",QLD1,Generator,Market,Semi-Scheduled,Solar,Solar ,Renewable,Photovoltaic Flat Panel,1-44,2.75,Y,DDSF1,121.0,108,21
+Darling Downs Solar Farm Pty Ltd ,"Darling Downs Solar Farm, Units 1-44 ",QLD1,Generator,Market,Semi-Scheduled,Solar,Solar ,Renewable,PV,1-44,2.75,Y,DDSF1,121.0,108,21
 Daydream Solar Farm Pty Ltd ATF the Daydream Solar Farm Trust ,Daydream Solar Farm,QLD1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,PV,1-29,2.75,Y,DAYDSF1,79.75,71.34,165
 Daydream Solar Farm Pty Ltd ATF the Daydream Solar Farm Trust ,Daydream Solar Farm,QLD1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,PV,30-61,2.75,Y,DAYDSF2,88.0,78.72,165
 Delta Electricity,"Vales Point ""B"" Power Station",NSW1,Generator,Market,Scheduled,Fossil,Black Coal,Combustion,Steam Sub-Critical,5,660,Y,VP5,660.0,680,25
@@ -471,12 +471,12 @@ Telstra Energy (Generation) Pty Ltd,Emerald Solar Park,QLD1,Generator,Market,Sem
 Telstra Energy (Generation) Pty Ltd,Murra Warra Wind Farm,VIC1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind,1-61,3.7,Y,MUWAWF1,231.8,225.7,45
 The Trustee For The SWF1 Operations Trust,Sapphire Wind Farm,NSW1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind,1-75,3.6,Y,SAPHWF1,270.0,270,225
 Toora Wind Farm Pty Ltd,Toora Wind Farm,VIC1,Generator,Market,Non-Scheduled,Wind,Wind,Renewable,Wind,1-12,1.75,Y,TOORAWF,21.0,21,
-Vena Energy Services (Australia) Pty Ltd,"Tailem Bend Solar Project 1, Units 1-54",SA1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,1-54,1.795,Y,TBSF1,108.0,95,19
+Vena Energy Services (Australia) Pty Ltd,"Tailem Bend Solar Project 1, Units 1-54",SA1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,PV,1-54,1.795,Y,TBSF1,108.0,95,19
 Veolia Environmental Services (Australia) Pty Ltd,Veolia Ti Tree Bio Reactor,QLD1,Generator,Market,Non-Scheduled,Renewable/ Biomass / Waste,Landfill Methane / Landfill Gas,Combustion,Compression Reciprocating Engine,1-2,1,N,TITREE,2.0,2,
 Waterloo Wind Farm Pty Ltd,Waterloo Wind Farm,SA1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind,1-37,3,N,WATERLWF,130.8,130,27
 Waterloo Wind Farm Pty Ltd,Waterloo Wind Farm,SA1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind,38-43,3.3,N,WATERLWF,0.0,-,-
 Wemen Asset Co Pty Ltd ATF Wemen Solar Unit Trust ,"Wemen Solar Farm, Units 1-39 ",VIC1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,PV,1-39,2.256,Y,WEMENSF1,97.5,88,90
-White Rock Wind Farm Pty Ltd,White Rock Solar Farm,NSW1,Generator,Market,Non-Scheduled,Solar,Solar,Renewable,Photovoltaic Flat Panel,1-8,2.75,Y,WRSF1,22.0,20,50
+White Rock Wind Farm Pty Ltd,White Rock Solar Farm,NSW1,Generator,Market,Non-Scheduled,Solar,Solar,Renewable,PV,1-8,2.75,Y,WRSF1,22.0,20,50
 White Rock Wind Farm Pty Ltd,White Rock Wind Farm,NSW1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind,1-70,2.5,Y,WRWF1,175.0,172,50
 Whitsunday Solar Farm Pty Ltd,Whitsunday Solar Farm,QLD1,Generator,Market,Semi-Scheduled,Solar,Solar,Renewable,PV,1-23,2.5,Y,WHITSF1,57.5,56,20
 Wild Cattle Hill Pty Ltd,Cattle Hill Wind Farm,TAS1,Generator,Market,Semi-Scheduled,Wind,Wind,Renewable,Wind,1-48,3,Y,CTHLWF1,148.0,144,6
