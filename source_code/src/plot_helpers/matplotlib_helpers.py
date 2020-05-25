@@ -73,7 +73,7 @@ def range_axis_ticks(ax, x_or_y, n, fmt=None):
     return ax
 
 
-def legend_definition(ax, bbox, loc, cols, font_size):
+def legend_definition(ax, bbox, loc, cols, font_size, **leg_kwargs):
     '''
     Simply adds legend to axis. This function documents important options
 
@@ -86,6 +86,7 @@ def legend_definition(ax, bbox, loc, cols, font_size):
         loc: Location of legend inside bbox. Str or int, see docs
         cols: number of columns the legend should have
         font_size: legend font size
+        leg_kwargs: kwargs to pass on to ax.legend
 
     Returns:
         ax, with legend
@@ -95,7 +96,8 @@ def legend_definition(ax, bbox, loc, cols, font_size):
               ncol=cols,
               loc=loc,
               fontsize=font_size,
-              mode='expand')
+              mode='expand',
+              **leg_kwargs)
 
     return ax
 
